@@ -1,0 +1,13 @@
+---
+layout: base.liquid
+---
+<div class="post-header">
+        <h2 id="subtitle">{{ subtitle }}</h2>
+    <div class="header-stamp">
+        <h3 class="dotted-underline" id="date">{{ page.date | date_to_string }}</h3>
+        <h3 class="dotted-underline" id="author">{{ author }}</h3>
+    </div>
+</div>
+<article>
+    {{ content }}
+</article>
