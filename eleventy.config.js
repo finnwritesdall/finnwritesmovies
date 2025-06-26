@@ -1,7 +1,9 @@
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+
 export default async function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./src/css");
 	eleventyConfig.addWatchTarget("./src/css/");
-	eleventyConfig.addWatchTarget("../../Documents/ReThink/FWM/Posts/")
+	eleventyConfig.addWatchTarget("../../Documents/ReThink/FWM/")
 
 	return {
 		markdownTemplateEngine: "liquid",
@@ -11,6 +13,6 @@ export default async function(eleventyConfig) {
 			output: "public",
 		}
 	};
-
+eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 
 };

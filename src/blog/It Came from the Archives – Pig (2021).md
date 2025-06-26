@@ -1,6 +1,6 @@
 ---
 title: It Came from the Archives – Pig (2021)
-subtitle: We don't get a lot of things to really care about.
+subtitle: "We don't get a lot of things to really care about."
 author:
   - Finnlay Dall
 date: 2022-03-23

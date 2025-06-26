@@ -1,13 +1,20 @@
 ---
 layout: base.liquid
 ---
-<div class="post-header">
-        <h2 id="subtitle">{{ subtitle }}</h2>
-    <div class="header-stamp">
-        <h3 class="dotted-underline" id="date">{{ page.date | date_to_string }}</h3>
-        <h3 class="dotted-underline" id="author">{{ author }}</h3>
-    </div>
-</div>
+
 <article>
+    <div class="post-header">
+        <div class="post-title">
+            <h1 class="post-header">{{ title }}</h1>
+            <h2 id="subtitle" class="faded-normal">{{ subtitle }}</h2>
+        </div>
+<div id="extra-padding-header-stamp">        
+    <div class="header-stamp">
+        <img src="./author_avatar.png" width="36px" height="36px">
+        <h3 id="author">{{ author }}</h3>
+        <h3 id="date" class="faded-normal">{{ page.date | date_to_string }}</h3>
+</div>
+</div>
+</div>
     {{ content }}
 </article>
