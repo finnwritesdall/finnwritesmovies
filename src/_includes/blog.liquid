@@ -10,11 +10,13 @@ layout: base.liquid
         </div>
 <div id="extra-padding-header-stamp">        
     <div class="header-stamp">
-        <img src="./author_avatar.png" width="36px" height="36px">
-        <h3 id="author">{{ author }}</h3>
-        <h3 id="date" class="faded-normal">{{ page.date | date_to_string }}</h3>
+        <img class="glow-shadow" src="../images/author_avatar.png" alt="profile picture" width="54px" height="54px">
+        <div class="small-text-column">
+            <h3 id="author">{{ author | upcase }}</h3>
+            <h3 id="date" class="faded-normal">{{ page.date | date: "%d %^b, %Y" }}</h3>
+        </div>
 </div>
 </div>
 </div>
-    {{ content }}
+    <div class="glow-shadow" id="content">{{ content }}</div>
 </article>
