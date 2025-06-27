@@ -11,7 +11,10 @@
     "typescript": "^5"
   },
   "scripts": {
-  "dev": "./update_blog.sh",
-  "build": "bunx @11ty/eleventy"
-}
+    "dev": "./update_blog.sh",
+    "build": "bunx @11ty/eleventy"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^4.0.0"
+  }
 }

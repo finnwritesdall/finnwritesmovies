@@ -4,8 +4,14 @@ subtitle: Vanity's a hell of a drug!
 author:
   - Finnlay Dall
 date: 2023-10-10
+tags:
+- matinee madness
+- review
+- classic cinemas
+- substack
+- post
 ---
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8909bb8-c92a-4430-8006-28e1247b752e_1920x1080.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8909bb8-c92a-4430-8006-28e1247b752e_1920x1080.jpeg)
+[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8909bb8-c92a-4430-8006-28e1247b752e*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8909bb8-c92a-4430-8006-28e1247b752e*1920x1080.jpeg)
 
 Kristoffer Borgli creates a biting comedy of horrific proportions, as he explores narcissism in all its ugly glory. 
 
@@ -17,6 +23,6 @@ However, if the main message of this film was “toxic women really do have it h
 
 The film has its dark touches but is ultimately a comedy. I had to keep from laughing too loud as there were a few morning stragglers like myself, but believe me when I say it was a challenge. Slight spoilers ahead…but I never thought in my life I would see a sex scene and a funeral juxtaposed so brilliantly. That’s the great thing about Borgli’s direction: it’s shocking, downright nasty even, but it’s never crass. The gut punches are sudden, but they are not without warning. However, there are one or two moments where I feel things went too far or were a bit too on the nose. The selfie in the hospital, while funny, felt the obvious choice despite the film being up until that point quite reserved with its satire. And while the detox retreat was the perfect hell for narcissistic undesirables like Signe, I felt its dismissal of invisible disabilities to be in poor taste; and that’s coming from some one with a very visible one.
 
- _Sick of Myself_ is at once playful and horrifying yet never feels garish or simplistic in its portrayal of rotten people. So, I for one was ecstatic to learn that _Dream Scenario_ is already on its way to theatres and looks just as insane.
+ *Sick of Myself* is at once playful and horrifying yet never feels garish or simplistic in its portrayal of rotten people. So, I for one was ecstatic to learn that *Dream Scenario* is already on its way to theatres and looks just as insane.
 
 That’s all from me! Hopefully I’ll have more reviews in the future so stay posted!

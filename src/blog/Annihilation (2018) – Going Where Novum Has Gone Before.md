@@ -4,26 +4,35 @@ subtitle: Why Science Fiction is always more dramatic with a small change rather
 author:
   - Finnlay Dall
 date: 2025-03-10
+tags:
+- netflix
+- post
+- horror
+- science fiction
+- writing
+- substack
+- review
+- streaming
 ---
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c_3840x2160.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c_3840x2160.jpeg)
+[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c*3840x2160.jpeg)
 
-Science Fiction has always been about exploring the outer reaches of our reality. And while space operas – with their many planets, diverse cultures and complex political struggles – provide an intriguing window into the future, their dominance in the genre has lead to a mess of nonsense names and information overload. While there are very few exceptions ( _The Dune Series and Original Star Wars Trilogy_ having creators who drew on real world societies or religions and stretched them to their logical conclusions) _,_ it’s hard to distinguish any grey, brutalist, starship colony from one another. Pulp Sci-Fi gets around this problem by bringing space to our own backyard or specialising in a certain science. It does this through what’s called the “Novum”.
+Science Fiction has always been about exploring the outer reaches of our reality. And while space operas – with their many planets, diverse cultures and complex political struggles – provide an intriguing window into the future, their dominance in the genre has lead to a mess of nonsense names and information overload. While there are very few exceptions ( *The Dune Series and Original Star Wars Trilogy* having creators who drew on real world societies or religions and stretched them to their logical conclusions) *,* it’s hard to distinguish any grey, brutalist, starship colony from one another. Pulp Sci-Fi gets around this problem by bringing space to our own backyard or specialising in a certain science. It does this through what’s called the “Novum”.
 
-Novum, or “new thing” in Latin is the element in a science fiction story that changes everything. More precisely, it is the one changes that, as a consequence, changes everything else around it. For Denis Villeneuve’s _Arrival_ (2016), it could be as simple as aliens coming to earth. Yet aliens have been a staple of Sci-Fi well before author Ted Chiang decided to put pen to paper. So his “new thing” is instead considered to be their language – one which destroys the very concept of past and present. For the far older _Planet of the Apes_ (1968), it was simple as, what if monkeys were sentient instead of humans.
+Novum, or “new thing” in Latin is the element in a science fiction story that changes everything. More precisely, it is the one changes that, as a consequence, changes everything else around it. For Denis Villeneuve’s *Arrival* (2016), it could be as simple as aliens coming to earth. Yet aliens have been a staple of Sci-Fi well before author Ted Chiang decided to put pen to paper. So his “new thing” is instead considered to be their language – one which destroys the very concept of past and present. For the far older *Planet of the Apes* (1968), it was simple as, what if monkeys were sentient instead of humans.
 
-It’s this narrowing of focus that allows the story to be engaging, as protagonists are often forced into discovering what makes the Novum tick, and as a consequence entice danger and leave the audience intrigued about how they’ll solve the mystery. H.G Wells was the master of this form of storytelling. His inventor from _The Time Machine_ and biologist from _The Island of Doctor Moreau_ are stricken mad by their adventures before the story even starts, but it only excites us more for what horrors await when they finally have the courage to recount their tales. This is because their discoveries of time travel and animal people are the one substantial change that creates every other consequence.
+It’s this narrowing of focus that allows the story to be engaging, as protagonists are often forced into discovering what makes the Novum tick, and as a consequence entice danger and leave the audience intrigued about how they’ll solve the mystery. H.G Wells was the master of this form of storytelling. His inventor from *The Time Machine* and biologist from *The Island of Doctor Moreau* are stricken mad by their adventures before the story even starts, but it only excites us more for what horrors await when they finally have the courage to recount their tales. This is because their discoveries of time travel and animal people are the one substantial change that creates every other consequence.
 
 New writers often struggle to create a believable Sci-Fi world because everything has to be “new”. New flying cars for new, modified people to drive to their new job as new testers for a new drug that makes you see a new virtual reality. Everything in their world has to have a seperate explanation for each new thing added, so their future becomes a tangled mess of generic ideas, because in an effort to unique, they struggle to balance all these new ideas in first drafts, leading to the next one being derivative so that its easier to keep track of everything.
 
-Novum stories don’t have that problem because every future thing branches out from that one concept. Replicants in _Blade Runner_ are robots virtually identical to humans. That one sentence leaves behind questions: What are they used for? Who created them? Who repairs them? If they think and act like humans how do we tell them apart, and if so, can they feel like us too?
+Novum stories don’t have that problem because every future thing branches out from that one concept. Replicants in *Blade Runner* are robots virtually identical to humans. That one sentence leaves behind questions: What are they used for? Who created them? Who repairs them? If they think and act like humans how do we tell them apart, and if so, can they feel like us too?
 
 Answer enough of these questions in a satisfying way, and you not only have a world, characters and gadgets, but their ramifications create a clear conflict within the story. As a result, they allow science fiction to be as simple or complex as the author desires – as long as it still has that central idea, people will not only follow along, but they’ll have a fun time doing it.
 
 But it’s still a feet to pull all this off successfully. Because despite what J.J Abrams’ might tell you, you still need to have answers that are not only satisfying enough, but also open enough to have audience members create their own conclusions.
 
-That’s why I think Alex Garland’s adaptation of _Annihilation_ , and I assume Jeff VanderMeer’s original novel, is the pinnacle of a modern-day Novum story (or at least tied for first with _Arrival_).
+That’s why I think Alex Garland’s adaptation of *Annihilation* , and I assume Jeff VanderMeer’s original novel, is the pinnacle of a modern-day Novum story (or at least tied for first with *Arrival*).
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d_3840x2160.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d_3840x2160.jpeg)
+[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d*3840x2160.jpeg)
 
 A meteor crashes into a lighthouse. Over the course of several months it emanates a oil coloured border around the surrounding area nicknamed “The Shimmer”. Designated as “The Southern Reach”, the American Government decides to study what this strange phenomenon is exactly. However, the personnel who enter disappearing, and the border soon encroaching onto to the mainland, the pursuit to discover quickly turns into an effort to destroy, as it’s existence could mean the end of life as we know it.
 
@@ -38,5 +47,3 @@ The Shimmer is refraction. Not just of light waves, but of everything, sound, ti
 It’s easy to see then why the simple notion of “what if everything could refract” spawns a million different possibilities and existential horrors. It still takes a genius to come up with questions and answers for everyone, but by focusing on one thing helps writers like Garland and Vandermere become curious and stretch their imaginations beyond what they thought was possible. 
 
 Ironically, a Novum is powerful because it brings fiction writing down to an exact science.
-
-* * *
