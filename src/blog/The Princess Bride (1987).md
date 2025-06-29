@@ -13,7 +13,7 @@ tags:
 - essay
 - substack
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f034fbf-5421-4ad3-bbe3-65c72483aece*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f034fbf-5421-4ad3-bbe3-65c72483aece*1920x1080.jpeg)
+![Westley and Princess Buttercup silhouetted by a sunset](https://image.tmdb.org/t/p/original/9nmMncgn0u5u3z54Vl2k42oGDDo.jpg)
 
 In honour of today being my Mum’s 58th Birthday, I thought I would talk about one of her all time favourite films. The film permeated my entire childhood – one of our cats was even named Wes, naturally short for Westley, and while I was too young to remember most of the names of the other nine we had at the time, I’m pretty sure there was a Vizzini in their somewhere (as inconceivable as the whole thing might sound. Nowadays, we’ve made it a tradition to see it at the cinema whenever it’s been on, and as luck would have it, it’s on tonight of all nights. So, allow me to just gush about a film that has always had a place in my heart – at least for a few hundred words or so.
 
@@ -39,4 +39,4 @@ In a fitting twist for the film’s production, Director Rob Reiner was given a 
 
 …But that’s a whole other story, and I can tell you seem annoyed. You want me to stop? Yes? *As you wish.*
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15c26f2-6176-4d1a-91f6-815ddc1ab49f*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15c26f2-6176-4d1a-91f6-815ddc1ab49f*1920x1080.jpeg)
+![Westley defending his princess after exiting The Fireswamp](https://image.tmdb.org/t/p/original/wD2Bp9RIF36EfsHiVqPNLq1SEOI.jpg)

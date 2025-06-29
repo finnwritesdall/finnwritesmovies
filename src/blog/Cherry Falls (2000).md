@@ -13,7 +13,7 @@ tags:
 - substack
 - post
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe589cebd-1bdb-4516-b2db-edc1b3d56d2d*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe589cebd-1bdb-4516-b2db-edc1b3d56d2d*1920x1080.jpeg)
+![Brittany Murphy bloodied after a rough night](https://image.tmdb.org/t/p/original/b8KbYr4ssvlT2k1dLvJxcL55WOu.jpg)
 
 It’s no secret that killers target sex crazed teens. Ever since Jason was left unattended at a summer camp, psychos have hunted spatially-challenged horn-dogs like they were going extinct. But what if the opposite were true? What if a murderer targeted those yet to make a move; virgins?
 
@@ -33,4 +33,4 @@ So, did I have fun? Yeah absolutely. Do I think it’s a good film? Absolutely n
 
 And when I’m watching movies, there’s always room for one more – ; ) .
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F481e28f0-7f86-44da-b155-0bf84b566a75*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F481e28f0-7f86-44da-b155-0bf84b566a75*1920x1080.jpeg)
+[![Brittany Murphy staring up at the ceiling of her bedroom](https://image.tmdb.org/t/p/original/3XeVjLdzCBxBA0eK1mhQIYVZqkw.jpg)

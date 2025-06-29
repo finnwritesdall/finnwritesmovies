@@ -14,7 +14,7 @@ tags:
 - games
 - internet
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ed5919-7a05-4025-b415-3920ea265e50*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ed5919-7a05-4025-b415-3920ea265e50*3840x2160.jpeg)
+![An Alien auditioning at the Vinewood Bowl](https://image.tmdb.org/t/p/original/xaqEyWfOH64ihSoTGbOKFYhcybC.jpg)
 
 The year is 2021 and England is in it’s third lockdown during the pandemic. Sam Crane and Mark Oosterveen, two out-of-work theatre actors, spend their days together in *GTA Online* playing slots, driving around Los Santos and gunning down innocent civilians. But the once fun and sprawling possibilities of the game have now turned into a mindless chore for Sam, whose recent responsibilities as a parent and husband have no patience for his unemployed arse.
 

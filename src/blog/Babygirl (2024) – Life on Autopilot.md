@@ -11,7 +11,7 @@ tags:
 - cinema nova
 - substack
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff002b95e-b319-445c-a717-246cb94c0a3d*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff002b95e-b319-445c-a717-246cb94c0a3d*3840x2160.jpeg)
+![Nicole Kidman disassociating in a theatre](https://image.tmdb.org/t/p/original/9U4OtxswdzKRcYKyR3W1KnLi6hN.jpg)
 
 Romy (Nicole Kidman) is the top dog at Amazon-esque e-commerce site striving to lead the charge in automated workflows. As packing bots flow up and down on a rail system, we’re told how important it is for their packing drones to have the same “accountability” as their human workers, and to bring a level of humanity back into the delivery room. Yet you could argue that the SHE-E-O’s home life is anything but human. She barely raises a fuss when her daughters act out, answering emails while barely present at the breakfast table, and ‘performs’ in bed for her dramaturg husband, Jacob (Antonio Banderas) before rushing off to really climax to fetish porn – muffling her real desires with a wet hand. Romy – like her company drones – experiences life on-rails, and despite her position of power, doesn’t really know how or when to get off.
 
@@ -21,7 +21,7 @@ A bedevilled spark ignites in Romy after this ordeal, an awkward yearning that o
 
 So, when their play-fighting culminates in a mentorship turned erotic affair between the two of them, it’s up to pair of them to decide the ground rules. That is, if they can figure out who should be in charge of their little situationship.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa28ed3bf-23aa-43b7-a065-9997bf14fd93*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa28ed3bf-23aa-43b7-a065-9997bf14fd93*3840x2160.jpeg)
+![Nicole Kidman and Harris Dickinson in a sensual brace](https://image.tmdb.org/t/p/original/kwQ9hJi11R2bzHF5LpcBecHX2cI.jpg)
 
 Modelled after the erotic thrillers of Paul Verhoeven ( *Basic Instinct, 1992)* and Adrian Lynne ( *Fatal Attraction, 1987)* , it seems, at first, unfathomable why Kidman’s character would go for a softie like Dickinson when she lays next to suave icon Banderas every night, who himself played a problematic (or in his case, psychotic) bad boy in Pedro Almodovar’s *Tie Me Up! Tie Me Down! (1989).* But Dickinson somehow gaslights, gatekeeps and (boy)girl bosses his way into the hearts of the audience. In one sense sure of himself, in another incredibly nervous, his performance is a sleight of hand trick that impresses both us and the investors. Not unfamiliar with keeping her *Eyes Wide Shut* and letting out her inner freak, Kidman is more than willing to scrape hands and knees if it means going toe to toe with her onscreen boy toy. 
 
@@ -33,7 +33,7 @@ For every scene of Romy crawling on her knees, Samuel will hold her, not caress 
 
 *Babygirl,* it seems then shares more in common with the likes of *Secretary (2002),* a more erotic than thrilling romance that sees Maggie Gyllenhaal’s Lee channel her self-harm into something more ‘healthy’, working under a spineless lawyer with a sadism fetish. In both films, what starts off as a problematic distraction from their empty lives, soon produces a sense of purpose for both members in the relationship. For Romy and Lee, Samuel and Grey (unrelated to the Christian Grey of E.L James’ series) become conduits of their inner strength, and surprisingly, their independence.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff56ca21f-479e-4744-986a-1619f288dc33*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff56ca21f-479e-4744-986a-1619f288dc33*3840x2160.jpeg)
+[![Harris Dickinson looking at you from across the club](https://image.tmdb.org/t/p/original/fLxFRSQ4iOBjt1W3IThZzp6Cmb9.jpg)
 
 The film does try to get around the murkiness of the situation – the age-gap, the intern/CEO power dynamic and the corporate corruption – by making both parties just as conflicted and confused as the audience is. When the role-play leaks out into their real lives, neither Samuel or Romy are sure who started it, who’s in control or who’s been manipulating whom. At the very least it’s done with more tact than either *Instinct* or *Attraction,* who paint Michael Douglas as a hapless sap who just so happened to hook-up with a cold and calculating psycho bitch. However, when the film implies ending a career with “one phone call” is equally harmful to asking your young intern to do sexual favours for you or you’ll “take care of him,” the writing hits little snags that don’t exactly scream solidarity with the victims of abuse or workplace harassment.
 

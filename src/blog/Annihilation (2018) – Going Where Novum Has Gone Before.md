@@ -14,7 +14,7 @@ tags:
 - review
 - streaming
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42082e7a-79a4-478f-83b9-c164bc34a44c*3840x2160.jpeg)
+[![Natalie Portman, Jennifer Jason Leigh and Tuva Novotny staring a mutant croc in the mouth](https://image.tmdb.org/t/p/original/mrY8nJNnk9KFtn8NvWnHA8Gi1oI.jpg)
 
 Science Fiction has always been about exploring the outer reaches of our reality. And while space operas – with their many planets, diverse cultures and complex political struggles – provide an intriguing window into the future, their dominance in the genre has lead to a mess of nonsense names and information overload. While there are very few exceptions ( *The Dune Series and Original Star Wars Trilogy* having creators who drew on real world societies or religions and stretched them to their logical conclusions) *,* it’s hard to distinguish any grey, brutalist, starship colony from one another. Pulp Sci-Fi gets around this problem by bringing space to our own backyard or specialising in a certain science. It does this through what’s called the “Novum”.
 
@@ -32,7 +32,7 @@ But it’s still a feet to pull all this off successfully. Because despite what 
 
 That’s why I think Alex Garland’s adaptation of *Annihilation* , and I assume Jeff VanderMeer’s original novel, is the pinnacle of a modern-day Novum story (or at least tied for first with *Arrival*).
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b7312a-f27f-4ca7-b3af-92f670da945d*3840x2160.jpeg)
+[![Natalie Portman staring down the tunnel to her doom?](https://image.tmdb.org/t/p/original/9trZvBr44UGedUOiGo3jgSUw13e.jpg)
 
 A meteor crashes into a lighthouse. Over the course of several months it emanates a oil coloured border around the surrounding area nicknamed “The Shimmer”. Designated as “The Southern Reach”, the American Government decides to study what this strange phenomenon is exactly. However, the personnel who enter disappearing, and the border soon encroaching onto to the mainland, the pursuit to discover quickly turns into an effort to destroy, as it’s existence could mean the end of life as we know it.
 

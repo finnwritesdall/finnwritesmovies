@@ -16,7 +16,7 @@ tags:
 - horror
 - remake
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd47c88e8-f801-46d7-bec9-82ad7afa2f82*6192x3074.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd47c88e8-f801-46d7-bec9-82ad7afa2f82*6192x3074.jpeg)
+![The cast of Haunted Mansion (2023) looking about as horrified as a sack of wheat](https://image.tmdb.org/t/p/original/wUO1hjVCpMJMglsTWVDKN1qQsn5.jpg)
 
 There’s a lot of to love about living a few doors down from your local cinema. One huge one is that on a whim - especially when eight dollar tickets are rumoured to roam the lobby halls - I can decide to sit down and watch a movie on the big screen. So, what better way to spend my sunshine filled morning than to lounge in a dark room for an hour or two. 
 

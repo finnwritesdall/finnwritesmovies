@@ -13,7 +13,7 @@ tags:
 - horror
 - post
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F571afc2b-23d6-4d84-9a97-f17b7389896f*1412x794.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F571afc2b-23d6-4d84-9a97-f17b7389896f*1412x794.jpeg)
+![Brad Pitt and Morgan Freeman coming to terms with their 'killer' ending](https://image.tmdb.org/t/p/original/dYjZ27hDw2QFaEIfzbNGwW0IkV9.jpg)
 
 *Se7en* was one of those Fincher Films I hadn’t seen until sometime last year. Mostly due to the fact that, like most YouTube addicted kids in the mid 2010’s, I’d absorbed the plot – as well as the infamous twist – through countless top ten videos. Mills has his Cliff Notes for *Dante’s Inferno,* while I have my WatchMojo Top Tens for *Fight Club* and *Se7en.*
 
@@ -33,7 +33,7 @@ Somerset is hated by his colleagues and put up with by friends for always caring
 
 But something changes when Mills enters the picture. He may be an experienced homicide detective for someone so young, but his rural cases are nothing compared to ravenous creeps of the big city. Somerset, faced with the possibility that Mills might be chewed up and spit back out as a carbon copy of himself, feels the need to help his partner. A paternal instinct kicks in for the old man: if he can’t save the city, he’ll at least save his partner.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a9071d-b6cf-4a8a-8897-5b04da9169df*1600x900.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a9071d-b6cf-4a8a-8897-5b04da9169df*1600x900.jpeg)
+![Brad Pitt and Morgan Freeman bonding over evidence](https://image.tmdb.org/t/p/original/ejcYNEKc0C59dqNBH9CtJ0WXNd1.jpg)
 
 But like most father’s, Somerset has a hard time showing his appreciation for Mills. “It’s easier to beat a child than it is to raise it.” he says to Mills over drinks. And while Somerset doesn’t accost Mills, he certainly berates and belittles him for having a short-temper and being a bit too eager to cause a fuss. But, eventually some of his old kindness shines through. 
 

@@ -11,7 +11,7 @@ tags:
 - cinema nova
 - cult classic
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0022f893-b6c8-4b55-affe-1bfc326dd79d*1500x844.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0022f893-b6c8-4b55-affe-1bfc326dd79d*1500x844.jpeg)
+![Ryland Brickson Cole Tews and his nervous beaver lawyer in beaver court](https://image.tmdb.org/t/p/original/tPoEiQnxGLjJ6uhiut8aTvuC0YH.jpg)
 
 I’d been waiting to see Mike Cheslik’s magnum opus for about two years now, and heard it hyped up at festivals for twice as long. So, when I was finally able to see it with my own eyes — in a packed cinema no less — you bet I was excited. But was the praise warranted, and did I maybe have my hopes just a little too high? Luckily, it was just as good as they say. *Hundreds of Beavers* isn’t just a love letter to Cartoons and silent-era slapstick, it’s a goddamned renaissance.
 
@@ -19,7 +19,7 @@ When Jean Kayak (Ryland Brickson Cole Tews) and his cider brewery go up in smoke
 
 But not before being rescued just in nick of time. Picked up just in time by the jolly Master Fur Trapper (Wes Tank) and his sleigh of hounds, Jean accompanies the Christ(mas)-like figure to drop off his sack of animal pelts to his friend and patron, the grizzled Merchant (Doug Mancheski). And it’s there where Jean meets the prettiest woman alive, The Furrier (Olivia Graves). However, learning that her hand in marriage belongs to the Master fur Trapper, and that her father is loathsome and hard to please Merchant, Jean makes it his mission to become a Fur Trapper worthy of the old man’s praise.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a04f469-abd4-4194-9ead-87bc36e428df*1918x1078.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a04f469-abd4-4194-9ead-87bc36e428df*1918x1078.jpeg)
+![Ryland Brickson Cole Tews being chased down by the titular hundreds of beavers](https://image.tmdb.org/t/p/original/d26hVZhft7XCwkpVqZBoRSu20IR.jpg)
 
 The film really is something you just have to see to believe it, but Cheslik goes above and beyond what you’d expect a live action rubber-hose cartoon to look like. The Merchant will squash a stretch his face with displeasure as he spits ink coloured tobacco toward a spittoon, only to miss it in increasingly comical ways each time. Era accurate lighting will obscure Jean’s face as he skulks around the beavers’ elaborate lair, and wide lensed close-ups exaggerate every characters’ already distinct features.
 

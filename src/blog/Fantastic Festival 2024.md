@@ -14,13 +14,13 @@ tags:
 - horror
 - science fiction
 ---
-[![](https://substackcdn.com/image/fetch/w*2400,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0caeb9ab-1bb7-4116-8f69-cb32f44cd7b6*2048x901.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0caeb9ab-1bb7-4116-8f69-cb32f44cd7b6*2048x901.jpeg)
+![Fantastic Festival 2024 logo](file:///Users/finnlaydall/webdev/finnwritesmovies/src/images/screenshots/FantasticFest24.webp)
 
 I promised I would do some coverage of this year’s Fantastic Film Festival, and while you’ll have to forgive me for my tardiness, I figured telling you a month later was a whole lot better than leaving you in the dark. So as a reward for being so patient, instead of one review, why not have three?
 
 # Sting
 
-[![Sting' Review — A Creepy Spider Horror Movie Gets Caught in Its Own Web](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06681157-18fe-41c1-a9f8-fd287be557da*1400x700.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06681157-18fe-41c1-a9f8-fd287be557da*1400x700.jpeg)
+![Alyla Browne sleeping with a dangerous red-back looming over her head](https://image.tmdb.org/t/p/original/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg)
 
 Lido was packed for a pretty momentous opening night. There were friends of the filmmaker, local film critics and just those looking for a good creature feature to occupy their evening. Many dressed the part including Hudson, the artistic director of the festival. 
 
@@ -44,7 +44,7 @@ Despite my misgivings about the choices made – both practically and narrativel
 
 # Mars Express
 
-[![Mars Express Director Tackles Amiga Classic That Influenced Hideo Kojima](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2caa61e2-2cdb-41db-b013-4924d30edc0b*1800x900.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2caa61e2-2cdb-41db-b013-4924d30edc0b*1800x900.jpeg)
+![Aline surround by allies and enemies on a pulp sci-fi inspired backdrop](https://image.tmdb.org/t/p/original/5eGvv8fNk7tehTU5diwFY5cZRJM.jpg)
 
 Most people outside Europe might be unfamiliar with french director and animator, Jérémie Périn. However, if you, like me, were old enough to access the internet in the 2010’s (hopefully all of you reading this were otherwise I might as well start calling myself an old man), you were either lucky, or perhaps unlucky enough, to bear witness to DyE’s *Fantasy* music video. 
 
@@ -64,7 +64,7 @@ Regardless, it was no doubt one of my favourites at the festival and if Jérémi
 
 # The Raid (2011)
 
-[![Gareth Evans on Making 'The Raid''s Best Action Scenes](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8de02a2-78e4-48eb-8c60-c11daf070d34*1420x946.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8de02a2-78e4-48eb-8c60-c11daf070d34*1420x946.jpeg)
+![Yayan Ruhian giving a bloodied Donny Alamsyah a good socking](https://image.tmdb.org/t/p/original/o3W687cfaQWTMHEga5offawNgED.jpg)
 
  *Who takes their mum to see The Raid?* That’s probably what some people were thinking as I sat down in the centre row with my fifty seven year old plus one. But knowing her love of Hollywood action movies and her propensity for the more boyish side of life, I had a feeling that the only barrier between her and the film would be the subtitle bar. And to no one’s surprise: she absolutely loved it. And to my surprise, I found myself not only liking it, as I’d had in the past, but now I simply adored it.
 
@@ -83,8 +83,6 @@ Although my new found love for this film cannot be understated, I do find myself
 There’s a particular scene in which Mad Dog (Yayan Ruhian), Riyadi’s loyal henchman, backs Jaka into a corner by holding him at gunpoint. However, once inside one of the vacant apartments, he mockingly uncocks his pistol, skulks to the kitchen counter and places the magazine down. “I never liked using these,” he says before turning around to face Jaka, for him guns simply “take away the rush.” But as he spreads his fingers out in front his opponent in twisted glee, we know exactly what his weapon of choice is. By keeping dialogue simple and sparse, Evans may tell us less, but its clear that wants to show us a whole lot more.
 
  *The Raid* is one of those sleeper hits in cinema that at least one person in your friendship circle knows about. And while over ten years of love and praise hasn’t quite helped it escape cult status into the mainstream. I think the best thing you can do right now is to see the restoration in cinema’s while it’s still floating around, or invite your friends for a movie night when the 4K release from Umbrella is available for purchase.
-
-* * *
 
 Thanks for taking time to read. Hopefully you’ve now got some films to add to your watch-list. If you’d like to stay up to date on what else I’ve been watching lately, feel free to follow me over on [Letterboxd](https://letterboxd.com/finnwritesdall/), as I’m fairly active (some would say *too* active) on there.
 

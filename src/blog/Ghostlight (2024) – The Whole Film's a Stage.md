@@ -11,7 +11,7 @@ tags:
 - substack
 - post
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348d24ca-1561-477b-81f6-5688a056697f*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348d24ca-1561-477b-81f6-5688a056697f*3840x2160.jpeg)
+![A community theatre warmup exercise with Dolly de Leon in the middle](https://image.tmdb.org/t/p/original/hNcM4VJOkcBZUtJTaMIsfBoUlcW.jpg)
 
 Having started this Substack over a year ago, and recently moving to yet another place that sits right next to a cinema, I thought that it was about time to post a more traditional review (Ah, just like old times). And what better movie to pick for the spookiest month of the year…
 
@@ -23,7 +23,7 @@ O’ Sullivan’s story seems to be a more overt love letter to dramaturgy, borr
 
 By extension, a director needs a more adept hand. You can’t rely on flat compositions and basic blocking, which is unfortunately the case for eighty to ninety percent of *Ghostlight’s* footage. School gyms are lit flatter than the deflated basketballs that tread on them, Daytime scenes look like they were shot on an iPhone (and not the Sean Baker kind with a kitted out rig either), while most emotional moments are either at a close up or establishing distance but are never in between. At least it didn’t *look* like a lifetime show, but that’s not a very high bar to clear for something that needed transcend a stage production.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05ecf2fa-64ed-4f6e-91ad-1df3577b5641*1920x1080.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05ecf2fa-64ed-4f6e-91ad-1df3577b5641*1920x1080.jpeg)
+![Katherine Kuperfer and Tara Mallen suffering through a messy hearing](https://image.tmdb.org/t/p/original/fIhNqnVr8zP8RskAtRaBIHZzkB2.jpg)
 
 I don’t mean to sound like a curmudgeon, as I’d be lying if I said I didn’t enjoy myself. But every time it would suck me in with it’s funny coincidences and cute father daughter bonding, it would blind me with its stage lights and have the ushers dragging me back out by my ankles. The worst instance being that pesky lawsuit.
 
@@ -35,8 +35,6 @@ It’s a lot of these same contrivances that really bring down the project for m
 
 At the very least, the finale, much like the play itself, pulls its act together at the very last second, and while Dan’s sudden jump in stage proficiency is jarring. There are lavish costumes, moody lighting and tearjerking mise en scéne galore. The whole sequence where Dan performs Romeo’s final monologue as he catches visions of his son in wings, is stunningly realised. And while this continues when the family gets home in the gloomy hours of the night and the credits sneak their way in, its hard not to feel a little cheated. They held all of this beauty back for so long, it genuinely felt like they had just figured out how to make their stage production into a film.
 
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb925ef49-b483-4a0f-8553-a1af07db30af*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb925ef49-b483-4a0f-8553-a1af07db30af*3840x2160.jpeg)
+![Keith and Katherine Kupferer performing Romeo and Juliet](https://image.tmdb.org/t/p/original/rhy7zETGvG6f5bDtOSiE5k1j8cr.jpg)
 
 But I do not want to end on a sour note. While I wasn’t blown away by the film itself, I had a great time watching this with an older crowd was a great. Everyone around me had a flurry of wonderful reactions, and shed a few tears at the end. It was hard not to get swept up alongside them. And if the players on the stage consider themselves a family, then I think, even if it’s just for a brief moment, the audience must be as well.
-
-* * *

@@ -14,7 +14,7 @@ tags:
 - substack
 - review
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1fa9a1e-bbc0-4a02-ad39-067eacbd8914*1919x885.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1fa9a1e-bbc0-4a02-ad39-067eacbd8914*1919x885.jpeg)
+![Anna Cobb absolutely glowing with insanity](https://image.tmdb.org/t/p/original/dY2hOaChOawRQnrcrEYiUVXqyoL.jpg)
 
 Casey (Anna Cobb), a shy and nervy teen, begins her internet career like any other child her age: alone in her room, armed with nothing but some glow in the dark stickers and the preinstalled copy of Photo Booth that came with her Mac. Stumbling her way through awkward pauses and stealing panicked glances away from the camera, we learn the sole purpose of her channel: to document The World’s Fair Challenge. An alternate reality horror game that reports to physically change the player into someone, or something, else.
 

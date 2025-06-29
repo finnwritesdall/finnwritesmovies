@@ -12,7 +12,7 @@ tags:
 - post
 - adaptations
 ---
-[![](https://substackcdn.com/image/fetch/w*1456,c*limit,f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34fa42bd-ed6d-45a4-b874-95e58328c717*3840x2160.jpeg)](https://substackcdn.com/image/fetch/f*auto,q*auto:good,fl*progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34fa42bd-ed6d-45a4-b874-95e58328c717*3840x2160.jpeg)
+[![A 50th birthday party no-one wants to be a part of](https://image.tmdb.org/t/p/original/Sw3mlJ5iIWSeSYjgiciKPymXw7.jpg)
 
 It’s difficult not to reminisce about a time when director Robert Zemeckis was at his peak. Especially when his latest project is so steeped in nostalgia as to make you sick. He’s always been a tech wiz, often leading teams of VFX artists, setting the standard for the next decade of filmmakers. Personally, I always return to the *Back to The Future Trilogy* when I’m feeling down. Seeing Marty and Doc occupying the same temporal space as their past and future selves seems like a simple edit job now, but in the Eighties, it would have cost a pretty penny in reshoots, considering the one to two year gap between each sequel. But as boundary pushing as the visuals were for the time, that’s not what made the films so memorable. It was Zemeckis and Bob Gale’s screenplays – the ones with quirky yet deeply interesting characters, with both grand and hellish visions of the future and an earned sentimentality – that truly revolutionised what a time travel story could be.
 
