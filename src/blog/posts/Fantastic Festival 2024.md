@@ -1,6 +1,7 @@
 ---
 title: Fantastic Festival 2024
 subtitle: A quick shoutout to some of the highlights at the festival.
+thumbnail: file:///Users/finnlaydall/webdev/finnwritesmovies/src/images/screenshots/FantasticFest24.webp
 author:
   - Finnlay Dall
 date: 2024-06-03
@@ -14,7 +15,7 @@ tags:
 - horror
 - science fiction
 ---
-![Fantastic Festival 2024 logo](file:///Users/finnlaydall/webdev/finnwritesmovies/src/images/screenshots/FantasticFest24.webp)
+![Fantastic Festival 2024 logo]({{ thumbnail }})
 
 I promised I would do some coverage of this year’s Fantastic Film Festival, and while you’ll have to forgive me for my tardiness, I figured telling you a month later was a whole lot better than leaving you in the dark. So as a reward for being so patient, instead of one review, why not have three?
 
@@ -22,7 +23,7 @@ I promised I would do some coverage of this year’s Fantastic Film Festival, an
 
 ![Alyla Browne sleeping with a dangerous red-back looming over her head](https://image.tmdb.org/t/p/original/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg)
 
-Lido was packed for a pretty momentous opening night. There were friends of the filmmaker, local film critics and just those looking for a good creature feature to occupy their evening. Many dressed the part including Hudson, the artistic director of the festival. 
+Lido was packed for a pretty momentous opening night. There were friends of the filmmaker, local film critics and just those looking for a good creature feature to occupy their evening. Many dressed the part including Hudson, the artistic director of the festival.
 
 In full exterminator cosplay, with a huntsman stitched to his shoulder, he looked like he’d come straight from the set. Lido employees also took the opportunity to dress the theatre up, as cobwebs and toy spiders lined the corridors. Safe to say, there was a palpable energy in room. And carrying that same energy into the theatre, I was ready to enjoy my first night of this weird, wacky and wonderful festival.
 
@@ -34,7 +35,7 @@ Charlotte raises the titular Sting on a diet of small bugs and insects. However,
 
 Writer and director Kiah Roache-Turner wasn’t shy about his love for Ridley Scott’s *Alien* and its influence on the film. From an environment on lockdown and the labyrinth of apartment vents, to the practical spider eggs bursting open to reveal gooey, flapping insides.
 
-Having worked previously on the *Wyrmwood* series and other Ozploitation projects, Roache-Turner wouldn’t have any trouble getting a monster movie off the ground. Nevertheless, considering his personal connection to the material and most of the writing stage taking place in lockdown, he knew he wanted to go above and beyond to make something special. So, snagging the opportunity to work with Wētā Workshop, most known for their involvement in *The* *Lord of the Rings* trilogy, to produce some of the classic creature designs, and finding the talented Alyla Browne just before she was to make her debut as a young Furiosa, all the pieces seemed to be in place to make cult classic. 
+Having worked previously on the *Wyrmwood* series and other Ozploitation projects, Roache-Turner wouldn’t have any trouble getting a monster movie off the ground. Nevertheless, considering his personal connection to the material and most of the writing stage taking place in lockdown, he knew he wanted to go above and beyond to make something special. So, snagging the opportunity to work with Wētā Workshop, most known for their involvement in *The* *Lord of the Rings* trilogy, to produce some of the classic creature designs, and finding the talented Alyla Browne just before she was to make her debut as a young Furiosa, all the pieces seemed to be in place to make cult classic.
 
 Wētā Workshop knocked it out of the park. Sting shown in all its slimy, wet and shiny glory is truly what elevates the film from the straight to streaming slop you force yourself to put on in the background. That being said, I would hesitate to put this film up there with the other horror darlings of the past year – *Talk to Me, Late Night with the Devil and Evil Dead Rise* just to name a few – as quite frankly the narrative elements were just uninteresting. While Ethan’s arc of learning to be a real father to Charlotte was a nice touch, it also lacked any depth or specificity. Conveying the reality of raising a daughter as a stepfather was clearly important to Roache-Turner, who was emphatic that this film was a monster movie ‘with heart’. Which would be fine if the father daughter relationship hadn’t felt so weak. Unlike *Evil Dead Rise,* where the sometimes taut relationships of the characters would add to the tension in a given scene, it felt as if every dramatic scene in *Sting* wanted to seperate itself from the ‘monster’ moments in an attempt to be treated more seriously. But when the dramatic writing has to also appeal to B-Movie standards, it just saps any excitement or tension from the film.
 
@@ -46,7 +47,7 @@ Despite my misgivings about the choices made – both practically and narrativel
 
 ![Aline surround by allies and enemies on a pulp sci-fi inspired backdrop](https://image.tmdb.org/t/p/original/5eGvv8fNk7tehTU5diwFY5cZRJM.jpg)
 
-Most people outside Europe might be unfamiliar with french director and animator, Jérémie Périn. However, if you, like me, were old enough to access the internet in the 2010’s (hopefully all of you reading this were otherwise I might as well start calling myself an old man), you were either lucky, or perhaps unlucky enough, to bear witness to DyE’s *Fantasy* music video. 
+Most people outside Europe might be unfamiliar with french director and animator, Jérémie Périn. However, if you, like me, were old enough to access the internet in the 2010’s (hopefully all of you reading this were otherwise I might as well start calling myself an old man), you were either lucky, or perhaps unlucky enough, to bear witness to DyE’s *Fantasy* music video.
 
 Being an easily frightened child and only ever hearing it as “die fantasy” or “the fucked up” music video in and around the middle school locker room, I avoided seeing *Fantasy* like the plague. But watching it now, there’s a clear artistry and thought behind the existential horror on display. And to think, roughly ten years after instilling fear into a generation of school children, Périn would come back with a full length animated feature worthy enough to premiere at the 76th Cannes film festival.
 

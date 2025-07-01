@@ -1,6 +1,7 @@
 ---
 title: Godzilla, King of the Monsters! (1956)
 subtitle: Even Kaiju aren't safe from whitewashing.
+thumbnail: https://image.tmdb.org/t/p/original/v4Udc9IcrdhdFaTKliUXkNTG86v.jpg
 author:
   - Finnlay Dall
 date: 2024-11-27
@@ -15,22 +16,22 @@ tags:
 - streaming
 - anniversary
 ---
-![Raymond Barry looking just as scared as you are to watch this film.](https://image.tmdb.org/t/p/original/v4Udc9IcrdhdFaTKliUXkNTG86v.jpg)
+![Raymond Barry looking just as scared as you are to watch this film.]({{ thumbnail }})
 
 About a week ago I saw the first *Godzilla* from 1954. I was playing catch-up, having missed both the Astor Marathon at MIFF and ACMI’s GodzillaFest, and although I wasn’t able to see it with an audience, thanks to a Cinema Nova screening, I still got to see my big boy on the big screen.
 
-Despite its age, Ishiro Honda’s classic could hardly be called dated. It builds tension by putting us in a state of not knowing alongside our main characters. Sailor’s are mysteriously consumed by a white light before their ships sink to the bottom of the ocean. Or a family shudder inside their home, frightened by the screams from their youngest son outside, only for the house to collapse on top of them. It’s a far grimmer creature feature than you’d think, simply because it shows you the fear of the people suffering rather than the monster itself. Information is trickled out in such a way as to make Godzilla almost Lovecraftian in nature. But his radioactive footprints and fire breath seem to suggest another story entirely. An unnatural mutation has occurred, exposing Godzilla to atom bomb testing has made him a monster of horrifying proportions. He is man’s undoing, but also, his creation. 
+Despite its age, Ishiro Honda’s classic could hardly be called dated. It builds tension by putting us in a state of not knowing alongside our main characters. Sailor’s are mysteriously consumed by a white light before their ships sink to the bottom of the ocean. Or a family shudder inside their home, frightened by the screams from their youngest son outside, only for the house to collapse on top of them. It’s a far grimmer creature feature than you’d think, simply because it shows you the fear of the people suffering rather than the monster itself. Information is trickled out in such a way as to make Godzilla almost Lovecraftian in nature. But his radioactive footprints and fire breath seem to suggest another story entirely. An unnatural mutation has occurred, exposing Godzilla to atom bomb testing has made him a monster of horrifying proportions. He is man’s undoing, but also, his creation.
 
 Godzilla may ultimately be a man in a rubber suit, but Honda was skilful enough to use lighting tricks to his advantage. What is shown of the monster is either obscured by mountains, submerged in water or cast in the long shadows of the night. Even before he’s made an appearance, stormy skies become his substitute; giving him the air of Nature’s vengeful avatar. In an age where its fellow features, and even some of its sequels, have aged like milk on modern screens, the original is able to salvage most of its horror by simply embracing the dark.
 
-Naturally, being so enthralled with the first entry, and seeing as their was still time to celebrate his 70th, I decided to seek out more of Godzilla’s offerings. The immediate follow-up *Godzilla Raids Again (1955)* did bring us the concept of Kaiju battles with its introduction of Angurius, but Motoyoshi Oda’s upbeat action and day lit scenes are a far cry from Honda’s original vision of horror. 
+Naturally, being so enthralled with the first entry, and seeing as their was still time to celebrate his 70th, I decided to seek out more of Godzilla’s offerings. The immediate follow-up *Godzilla Raids Again (1955)* did bring us the concept of Kaiju battles with its introduction of Angurius, but Motoyoshi Oda’s upbeat action and day lit scenes are a far cry from Honda’s original vision of horror.
 
 But what I want to write about today is *Godzilla, King of the Monsters!* A story that had me truly baffled, as evening reading the discourse around the film brought up more questions than answers.
 
 ## Localisation or Bastardisation?
 ![Raymond Burr and Frank Iwanaga staring non-chalantly at the carnage](https://image.tmdb.org/t/p/original/iog18AUHDUFL8Ra7wje7ibaiMg2.jpg)
 
-The film shows up as the third entry in the Criterion Channel’s playlist for the Shōwa era[^1] of Godzilla films, although it’s not listed in [Wikipedia’s official filmography for the franchise.](https://en.wikipedia.org/wiki/Godzilla*\(franchise\)#Filmography) That’s because it’s not a new film, but an American re-release of the original. So, imagine my surprise when going in blind, I was treated to a fully English voiceover introducing American correspondent, Steve Martin (Raymond Burr), as he clambers out of the scorched remains of Tokyo from the first film. 
+The film shows up as the third entry in the Criterion Channel’s playlist for the Shōwa era[^1] of Godzilla films, although it’s not listed in [Wikipedia’s official filmography for the franchise.](https://en.wikipedia.org/wiki/Godzilla*\(franchise\)#Filmography) That’s because it’s not a new film, but an American re-release of the original. So, imagine my surprise when going in blind, I was treated to a fully English voiceover introducing American correspondent, Steve Martin (Raymond Burr), as he clambers out of the scorched remains of Tokyo from the first film.
 
 Used to seeing flashbacks of *Godzilla* from *Raids Again* , and seeing Honda’s name as co-director alongside Terry O. Morse, I thought Honda might be trying to reach western audiences, seeing as its references to atomic bomb testing and the use of one threat to destroy another was clearly a warning to those outside of Japan. Excited to see what new perspective he was about to give us, I didn’t mind that it re-established the scene at the hospital.
 
@@ -38,7 +39,7 @@ However, when the bandaged Martin spoke to a barely disguised double of Emiko, I
 
 The inconsistent dubbing is the most glaring issue, with the important actors dubbed in scenes, only for flashbacks to those same scenes, like in Dr. Serizawa’s lab, inextricably having the original Japanese dialogue. While larger scenes, like the discussion in parliament, are either summarised in voiceover by Martin, or translated directly to him by security officer Tomo Iwanaga (Frank Iwanaga), who acts as his interpreter throughout the film.
 
-Every one of Burr’s added scenes sticks out like a sore thumb, cheaply made sets and flat lighting, no doubt due to the budget constraints of American TV, clash hard with Honda’s original vision: a dark and sombre Japan. And while the dubbing is a necessary evil, the voice actors don’t remotely try to match the original performances. Their line reads are often dry and hastily delivered. 
+Every one of Burr’s added scenes sticks out like a sore thumb, cheaply made sets and flat lighting, no doubt due to the budget constraints of American TV, clash hard with Honda’s original vision: a dark and sombre Japan. And while the dubbing is a necessary evil, the voice actors don’t remotely try to match the original performances. Their line reads are often dry and hastily delivered.
 
 Nevertheless, what remains of Honda’s work still look incredible, even if its often undercut by Burr’s presence. That same scene where a boy watches his family get crushed under the weight of their house is as harrowing as ever. It’s just a shame that it’s immediately followed up by Martin and Iwanaga starring blankly onwards, wet from the storm as they fight off a light breeze.
 
@@ -48,12 +49,12 @@ The story is streamlined. Important contextual details are entirely absent. An e
 
 On the Criterion DVD commentary, *Godzilla* historian David Kalat agrees that the removal of textual elements lessens the film’s effect, but defuses the idea that their is any intentional foul play from the filmmakers. He argues that the “subtext” remains and critics at the time still understood the film’s stance on nuclear weapons. However, while it may be true that editing for TV required the removal of scenes “[which] didn’t involve the main cast and weren’t essential for following the plot”, considering the scene mentioned before, in which two main characters are present, it becomes clear that certain liberties were taken for a less critical and clean cut ending.
 
-What’s even harder to stomach about the film is that Ishiro Honda himself was not made aware of any of the changes made to film. And being a young filmmaker, was just excited that Hollywood, known for the monster movies that inspired the film, were interested in buying the distribution rights. It wasn’t until *King of Monsters!* was redistributed as a Japanese dub a year later that he finally got to see what they had done to it. While his comments about the film remained generally positive, it seems insulting to attach Honda’s name to a project that, by all accounts removed a majority of his work – not to mention marketing it as a brand new American film shot on location. 
+What’s even harder to stomach about the film is that Ishiro Honda himself was not made aware of any of the changes made to film. And being a young filmmaker, was just excited that Hollywood, known for the monster movies that inspired the film, were interested in buying the distribution rights. It wasn’t until *King of Monsters!* was redistributed as a Japanese dub a year later that he finally got to see what they had done to it. While his comments about the film remained generally positive, it seems insulting to attach Honda’s name to a project that, by all accounts removed a majority of his work – not to mention marketing it as a brand new American film shot on location.
 
 The whole film feels scummy at best, and downright manipulative at worst. And that’s no doubt in part due to Joseph E. Levine. Known for his experience in advertising and being the main producer behind a sea of exploitation films, Levine bought *Godzilla* for distribution in America for relatively cheap, no doubt banking on Japan’s postwar economic struggles:
 
-> “Though Japan’s economy began to revive in the early 1950s, the poverty and devastation of the postwar years were still recent memories. Personal incomes remained very low, and the country suffered massive trade deficits; therefore, $25,000 in highly coveted American currency was indeed a huge deal. But while the money was a boon to Toho, the amount was an absolute steal for…American distributors, a tiny fraction of the bargain price that Warners had paid for The Beast from 20,000 Fathoms.” 
-> 
+> “Though Japan’s economy began to revive in the early 1950s, the poverty and devastation of the postwar years were still recent memories. Personal incomes remained very low, and the country suffered massive trade deficits; therefore, $25,000 in highly coveted American currency was indeed a huge deal. But while the money was a boon to Toho, the amount was an absolute steal for…American distributors, a tiny fraction of the bargain price that Warners had paid for The Beast from 20,000 Fathoms.”
+>
  \- Steve Ryfle and Ed Godziszewski
 
 It’s doubtful that O. Morse had the same intentions as his producers, as Kalat also mentions on the commentary, *Unknown World (1951)* – the director’s previous work was staunchly anti-nuclear. However, it’s the subtle changes to *Godzilla’s* script, like the removal of Dr. Serizawa describing how he would be tortured for information on the Oxygen Destroyer if the government couldn’t get ahold of his notes, that maybe point to an implicit bias as an American. And while Kalat ultimately dismisses viewing the the original *Godzilla* through an “anti-american” lens – albeit one he “stands behind” – there’s no denying the language and behaviour of main cast is fundamentally different.

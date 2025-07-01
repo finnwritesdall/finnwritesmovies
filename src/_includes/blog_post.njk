@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-permalink: /posts
+permalink: /posts/
 ---
 <header>
     <div class="post-header">
@@ -16,8 +16,8 @@ permalink: /posts
     <div class="header-stamp">
         <img class="glow-shadow" src="/images/site_assets/author_avatar.png" alt="profile picture" width="54px" height="54px">
         <div class="small-text-column">
-            <h3 id="author">{{ author }}</h3>
-            <h3 id="date" class="faded-normal">{{ page.date }}</h3>
+            <h3 id="author">{{ author | safe | upper }}</h3>
+            <h3 id="date" class="faded-normal">{{ date | readableDate | upper }}</h3>
         </div>
     </div>
 </div>

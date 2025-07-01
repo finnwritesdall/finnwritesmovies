@@ -1,6 +1,7 @@
 ---
 title: Grand Theft Hamlet (2024)
 subtitle: All the open world's a stage.
+thumbnail: https://image.tmdb.org/t/p/original/xaqEyWfOH64ihSoTGbOKFYhcybC.jpg
 author:
   - Finnlay Dall
 date: 2025-02-24
@@ -14,7 +15,7 @@ tags:
 - games
 - internet
 ---
-![An Alien auditioning at the Vinewood Bowl](https://image.tmdb.org/t/p/original/xaqEyWfOH64ihSoTGbOKFYhcybC.jpg)
+![An Alien auditioning at the Vinewood Bowl]({{ thumbnail }})
 
 The year is 2021 and England is in it’s third lockdown during the pandemic. Sam Crane and Mark Oosterveen, two out-of-work theatre actors, spend their days together in *GTA Online* playing slots, driving around Los Santos and gunning down innocent civilians. But the once fun and sprawling possibilities of the game have now turned into a mindless chore for Sam, whose recent responsibilities as a parent and husband have no patience for his unemployed arse.
 
@@ -34,6 +35,6 @@ After a couple months, when the end of the pandemic seems like a possibility, Ma
 
 While these darker moments are no doubt resonant with many unemployed creatives still struggling after the pandemic *(*cough, cough*),* that’s unfortunately where the cracks in the production start to show. Naturally, no documentary is truly candid; no matter how low budget or intentional the director is. But when Mark opens up about his aunt’s funeral and how he has no more living relatives, or Pinny chews out Sam for missing her birthday for *GTA,* it may feel dramatically powerful, but you can smell the theatricality of it all. It’s at least made better by the intentional cut here and there to NPC’s listening in to all the filmmakers’ dirty laundry over game chat – as it shows Sam, Mark and Pinny are at the very least self aware enough to be a bit tongue-in-cheek.
 
-And all that ceases to matter entirely once the final performance kicks off. With old characters like ParTeb returning to watch, Mark acting as both narrator and tour guide, and all the mishaps that can happen on a blimp, boat or plane, happening – the excitement is palpable. 
+And all that ceases to matter entirely once the final performance kicks off. With old characters like ParTeb returning to watch, Mark acting as both narrator and tour guide, and all the mishaps that can happen on a blimp, boat or plane, happening – the excitement is palpable.
 
 What little we get of the actual *Grand Theft Hamlet* speaks to how wonderful games can be for forging lifelong friendships and that even events that seem small in the beginning can create wonderful real world memories for those willing to join in on the fun.

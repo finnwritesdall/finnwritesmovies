@@ -1,10 +1,11 @@
 ---
 title: Heretic (2024) – You May Not Like What You Find Down There...
 subtitle: AITA for making some mormon teens question their faith?
+thumbnail: https://image.tmdb.org/t/p/original/tmvbyMIv56hc03Mtgusj2koFWKj.jpg
 author:
   - Finnlay Dall
 date: 2024-11-12
-tags: 
+tags:
 - a24
 - horror
 - reddit
@@ -15,7 +16,7 @@ tags:
 - substack
 - post
 ---
-![Hugh Grant about to ABSOLUTELY DESTROY some mormon girls](https://image.tmdb.org/t/p/original/tmvbyMIv56hc03Mtgusj2koFWKj.jpg)
+![Hugh Grant about to ABSOLUTELY DESTROY some mormon girls]({{ thumbnail }})
 
 A24 has always taken a chance on weirder projects. Its almost part of their brand at this point to say yes where other production companies would say no. And while its had a pretty decent track record, its usually their horror films – *Hereditary, Talk to Me, I Saw the TV Glow* – that have the greatest return on investment. So, it was easy to see why hype was building for *Heretic.* A religious psychological horror with stunning cinematography by Park Chan-wook veteran, Chung Chung-hoon and a scenery chewing Hugh Grant attached as a villain; honestly who wouldn’t be excited?
 

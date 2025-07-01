@@ -1,6 +1,7 @@
 ---
 title: Matinee Madness – Sick of Myself (2023)
 subtitle: Vanity's a hell of a drug!
+thumbnail: https://image.tmdb.org/t/p/original/lJXHuyY622HcA0RHJvkeJcvzamK.jpg
 author:
   - Finnlay Dall
 date: 2023-10-10
@@ -11,9 +12,9 @@ tags:
 - substack
 - post
 ---
-![Kristine Kujath Thorp gobbling up black market pills from a kitchen table](https://image.tmdb.org/t/p/original/lJXHuyY622HcA0RHJvkeJcvzamK.jpg)
+![Kristine Kujath Thorp gobbling up black market pills from a kitchen table]({{ thumbnail }})
 
-Kristoffer Borgli creates a biting comedy of horrific proportions, as he explores narcissism in all its ugly glory. 
+Kristoffer Borgli creates a biting comedy of horrific proportions, as he explores narcissism in all its ugly glory.
 
 The film follows Signe, an aspiring painter who constantly struggles to wrestle attention away from her much more successful partner. After saving the life of dog attack victim at work – and coming off the high of being praised for her actions – she decides to research a way to disfigure herself, deciding that being a victim and surviving the trauma is a success story her sculptor boyfriend simply can’t beat.
 
@@ -28,5 +29,3 @@ The film has its dark touches but is ultimately a comedy. I had to keep from lau
 ![Dream Scenario Trailer](https://www.youtube.com/watch?v=q3x9iUL-74w)
 
 That’s all from me! Hopefully I’ll have more reviews in the future so stay posted!
-
-

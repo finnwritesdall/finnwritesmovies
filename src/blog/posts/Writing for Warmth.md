@@ -1,6 +1,7 @@
 ---
 title: Writing for Warmth
 subtitle: Even if it hurts!
+thumbnail: https://image.tmdb.org/t/p/original/vxzcL7NuRonUqVRXMw60pXuhj7z.jpg
 author:
   - Finnlay Dall
 date: 2023-09-11
@@ -22,7 +23,7 @@ But all these tragic circumstances I find myself thinking: what does it mean to 
 
 ## *Asteroid City* (2023) as semi-autofiction.
 
-![Scarlett Johansson looking out the window like I feel](https://image.tmdb.org/t/p/original/vxzcL7NuRonUqVRXMw60pXuhj7z.jpg)
+![Scarlett Johansson looking out the window like I feel]({{ thumbnail }})
 
 As annoying as it is to write, I wasn’t a big fan of Wes Anderson’s latest outing. Having seen it with other screenwriters was a fun time, but I got more out of the discussion afterwards than the actual film.
 

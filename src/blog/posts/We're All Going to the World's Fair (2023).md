@@ -1,6 +1,7 @@
 ---
 title: We're All Going to the World's Fair (2023)
 subtitle: The horrors of making a space for yourself online.
+thumbnail: https://image.tmdb.org/t/p/original/dY2hOaChOawRQnrcrEYiUVXqyoL.jpg
 author:
   - Finnlay Dall
 date: 2024-03-28
@@ -14,7 +15,7 @@ tags:
 - substack
 - review
 ---
-![Anna Cobb absolutely glowing with insanity](https://image.tmdb.org/t/p/original/dY2hOaChOawRQnrcrEYiUVXqyoL.jpg)
+![Anna Cobb absolutely glowing with insanity]({{ thumbnail }})
 
 Casey (Anna Cobb), a shy and nervy teen, begins her internet career like any other child her age: alone in her room, armed with nothing but some glow in the dark stickers and the preinstalled copy of Photo Booth that came with her Mac. Stumbling her way through awkward pauses and stealing panicked glances away from the camera, we learn the sole purpose of her channel: to document The World’s Fair Challenge. An alternate reality horror game that reports to physically change the player into someone, or something, else.
 
@@ -32,10 +33,8 @@ Ultimately, the internet age contains many stories, each as inventive, and as da
 
 Thanks for reading! Apologies for the hiatus, this year’s been a real whirlwind! I’ll try to be covering more stuff in the coming months (including some of the Fantastic Film Festival program). As always, I appreciate the support and am always super chuffed when someone tells me they’ve been reading.
 
-Meanwhile, if you ever want to go that extra mile… 
+Meanwhile, if you ever want to go that extra mile…
 
 Don’t worry this not a segue into a monthly subscription. I would incredibly grateful if you’d get the word out about this newsletter. As I want to keep this up, but I also want to keep it *free.* So, more eyes could mean more exclusive content (Reviews and essays for unreleased films or TV Shows, interviews, special segments).
 
 Regardless, I’ll still be writing away, so feel free to DM me on here, comment or email me.
-
-

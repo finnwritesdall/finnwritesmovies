@@ -1,6 +1,7 @@
 ---
 title: The Substance (2024) – All Eyes on Me
 subtitle: How Coralie Fargeat views the act of perceiving and being perceived.
+thumbnail: https://image.tmdb.org/t/p/original/b0itXhS69X33BvLi7uWjUZQs9MB.jpg
 author:
   - Finnlay Dall
 date: 2024-10-22
@@ -16,7 +17,7 @@ tags:
 - halloween
 - cinema nova
 ---
-![Demi Moore getting more (eyes) than she bargained for](https://image.tmdb.org/t/p/original/b0itXhS69X33BvLi7uWjUZQs9MB.jpg)
+![Demi Moore getting more (eyes) than she bargained for]({{ thumbnail }})
 
 Last night was my fourth time seeing *The Substance.* It was also my third time seeing it this month alone. That’s not surprising, as you can tell from an [earlier review of mine](https://unimelbfilmsoc.org/2024/09/19/the-substance-review/) that I’ve been obsessed since day one. Because Fargeat simply manages to pull off the impossible: creating a darkly funny and horrific satire that seems blunt on the surface, but provides a lot to chew on once you start peeling back all its fleshy layers.
 

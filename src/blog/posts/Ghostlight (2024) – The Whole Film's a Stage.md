@@ -1,6 +1,7 @@
 ---
 title: Ghostlight  (2024) – The Whole Film's a Stage
 subtitle: After a long absence, it's time for a rude awakening.
+thumbnail: https://image.tmdb.org/t/p/original/hNcM4VJOkcBZUtJTaMIsfBoUlcW.jpg
 author:
   - Finnlay Dall
 date: 2024-10-15
@@ -11,11 +12,11 @@ tags:
 - substack
 - post
 ---
-![A community theatre warmup exercise with Dolly de Leon in the middle](https://image.tmdb.org/t/p/original/hNcM4VJOkcBZUtJTaMIsfBoUlcW.jpg)
+![A community theatre warmup exercise with Dolly de Leon in the middle]({{ thumbnail }})
 
 Having started this Substack over a year ago, and recently moving to yet another place that sits right next to a cinema, I thought that it was about time to post a more traditional review (Ah, just like old times). And what better movie to pick for the spookiest month of the year…
 
-…than a cut and dry drama about a local theatre production in Chicago (Look, at least it has “ghost” in the title). 
+…than a cut and dry drama about a local theatre production in Chicago (Look, at least it has “ghost” in the title).
 
 Kelly O’ Sullivan and Alex Thompson return off the success of their 2019 film, *Saint Frances,* to collaborate once more on *Ghostlight.* A father and construction worker, Dan (Keith Kupferer) struggles to keep his head above water as he deals with a brash and antisocial teenage daughter (Katherine Mallen Kupferer), a fed up spouse (Tara Mallen) and the egregious fees from pursuing a lawsuit we don’t get the full details of until much later on. But his rage reaches a boiling point when he assaults a sports car revving douche for nearly running him over, and when his co-worker captures the whole thing on his phone (albeit regretfully), Dan’s left almost certainly out of a job. However, when local theatre actor, Rita (*Triangle of Sadness'*  Dolly De Leon) catches a glimpse of his pure emotion from across the street, she implores him to take part in a community theatre production of *Romeo and Juliet* in a desperate bid to replace one of their dropouts.
 
@@ -29,7 +30,7 @@ I don’t mean to sound like a curmudgeon, as I’d be lying if I said I didn’
 
  **THIS IS YOUR SPOILER WARNING, HEED IT NOW OR EXPERIENCE A TRAGEDY MOST FOUL.**
 
-Turns out Dan is essentially suing the family of his son’s girlfriend, who together with said son - pause for dramatic irony - committed a double suicide after not being able to see each other. Only, the girlfriend survived. So, Dan is convinced that the girlfriend drove him to do it. And it takes performing as Romeo (inhabiting a the mind of a character akin to his son), for him to forgive her and let go. As with most plays, this sounds on paper like the juiciest thematic twist, but in reality, feels like the thing in a first draft of a screenplay that you iron out to be just a little more plausible. For me, it literally would have made more sense for the girlfriend to be drink driving and surviving the crash, that way its similar enough to mirror *Romeo and Juliet* while still being different enough to feel a lot more grounded. It’s not lazy writing, but its one to one enough to definitely feel contrived. 
+Turns out Dan is essentially suing the family of his son’s girlfriend, who together with said son - pause for dramatic irony - committed a double suicide after not being able to see each other. Only, the girlfriend survived. So, Dan is convinced that the girlfriend drove him to do it. And it takes performing as Romeo (inhabiting a the mind of a character akin to his son), for him to forgive her and let go. As with most plays, this sounds on paper like the juiciest thematic twist, but in reality, feels like the thing in a first draft of a screenplay that you iron out to be just a little more plausible. For me, it literally would have made more sense for the girlfriend to be drink driving and surviving the crash, that way its similar enough to mirror *Romeo and Juliet* while still being different enough to feel a lot more grounded. It’s not lazy writing, but its one to one enough to definitely feel contrived.
 
 It’s a lot of these same contrivances that really bring down the project for me, as you’ve got a template for a really special dramadey. They sting more than plot holes, because at least you can forgive a plot hole if everything else holds up. But contrivances, while they’re thematically relevant and sometimes necessary to keep a story’s momentum, always reek of the first and easiest option out of the possible beats a writer has listed out.
 

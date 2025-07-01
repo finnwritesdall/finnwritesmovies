@@ -1,6 +1,7 @@
 ---
 title: A Slight Delay and a Slight Recommendation
 subtitle: Heaven, Hell and other delusions...
+thumbnail: https://image.tmdb.org/t/p/original/epSR5QO7CMgjNujvfCfCabiSJDN.jpg
 author:
   - Finnlay Dall
 date: 2023-09-28
@@ -16,7 +17,7 @@ tags:
 I promised a weekly letter, so a weekly letter you’ll get. As penance for my lateness, please accept this review of a show I was lucky enough to find on Disney+.
 
 ## *Heavenly Delusion* (*Tengoku Daimakyō*)
-![Maru and Kiriko in front of a Lovecraftian amount of viscera](https://image.tmdb.org/t/p/original/epSR5QO7CMgjNujvfCfCabiSJDN.jpg)
+![Maru and Kiriko in front of a Lovecraftian amount of viscera]({{ thumbnail }})
 
 As we march closer and closer to the singularity, it’s clear that future dystopias are on the rise again in science fiction. It’s become a bit tiring to see humanity’s end so many times. And you would be forgiven for missing out on *Heavenly Delusion,* as its premise is also fairly simplistic. In a world of hellish monsters, a bodyguard is tasked with transporting the only child capable of destroying them. Their destination: “Heaven”.
 

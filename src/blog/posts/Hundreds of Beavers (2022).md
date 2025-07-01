@@ -1,6 +1,7 @@
 ---
 title: Hundreds of Beavers (2022)
 subtitle: I taut I taw a puddy good film.
+thumbnail: https://image.tmdb.org/t/p/original/tPoEiQnxGLjJ6uhiut8aTvuC0YH.jpg
 author:
   - Finnlay Dall
 date: 2025-04-07
@@ -11,7 +12,7 @@ tags:
 - cinema nova
 - cult classic
 ---
-![Ryland Brickson Cole Tews and his nervous beaver lawyer in beaver court](https://image.tmdb.org/t/p/original/tPoEiQnxGLjJ6uhiut8aTvuC0YH.jpg)
+![Ryland Brickson Cole Tews and his nervous beaver lawyer in beaver court]({{ thumbnail }})
 
 I’d been waiting to see Mike Cheslik’s magnum opus for about two years now, and heard it hyped up at festivals for twice as long. So, when I was finally able to see it with my own eyes — in a packed cinema no less — you bet I was excited. But was the praise warranted, and did I maybe have my hopes just a little too high? Luckily, it was just as good as they say. *Hundreds of Beavers* isn’t just a love letter to Cartoons and silent-era slapstick, it’s a goddamned renaissance.
 

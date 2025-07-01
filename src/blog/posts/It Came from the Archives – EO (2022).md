@@ -1,6 +1,7 @@
 ---
 title: It Came from the Archives – EO (2022)
 subtitle: One Man’s Donkey is Another Man’s Devil
+thumbnail: https://image.tmdb.org/t/p/original/egnCzNRjUzJGDQVorE7aWy0DFmi.jpg
 author:
   - Finnlay Dall
 date: 2022-04-20
@@ -12,7 +13,7 @@ tags:
 - animals
 - adaptation
 ---
-[EO chilling with an Italian in a horse trailer](https://image.tmdb.org/t/p/original/egnCzNRjUzJGDQVorE7aWy0DFmi.jpg)
+![EO chilling with an Italian in a horse trailer]({{ thumbnail }})
 
 In an interview with [The Lincoln Centre](https://www.youtube.com/watch?v=MC3A6JrWlGQ), director Jerzy Skolimowski spoke of his early days as a filmmaker. Included was his utter shock in finding his first feature, *Walkover (1965)*, achieved the second spot in Cahiers du Cinéma's annual top ten list. And what was his first instinct upon hearing such wonderful news? He rushed to the nearest cinema and watched the work of the man who bested him. That film, Robert Bresson's *Au Hasard Balthazar (1966)*, was the first time the young upstart had wept at a piece of art.
 

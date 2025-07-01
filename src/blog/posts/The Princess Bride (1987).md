@@ -1,6 +1,7 @@
 ---
 title: The Princess Bride (1987)
 subtitle: A small post on the funny film with a big heart of gold.
+thumbnail: https://image.tmdb.org/t/p/original/9nmMncgn0u5u3z54Vl2k42oGDDo.jpg
 author:
   - Finnlay Dall
 date: 2025-02-17
@@ -13,7 +14,7 @@ tags:
 - essay
 - substack
 ---
-![Westley and Princess Buttercup silhouetted by a sunset](https://image.tmdb.org/t/p/original/9nmMncgn0u5u3z54Vl2k42oGDDo.jpg)
+![Westley and Princess Buttercup silhouetted by a sunset]({{ thumbnail }})
 
 In honour of today being my Mum’s 58th Birthday, I thought I would talk about one of her all time favourite films. The film permeated my entire childhood – one of our cats was even named Wes, naturally short for Westley, and while I was too young to remember most of the names of the other nine we had at the time, I’m pretty sure there was a Vizzini in their somewhere (as inconceivable as the whole thing might sound. Nowadays, we’ve made it a tradition to see it at the cinema whenever it’s been on, and as luck would have it, it’s on tonight of all nights. So, allow me to just gush about a film that has always had a place in my heart – at least for a few hundred words or so.
 
@@ -33,9 +34,9 @@ Yet, Prince Humperdinck’s casual remarks prior about needing to miss the whole
 
 But it’s also delivered with such coolness by Chris Sarandon that it’s unnerving at the same time. The film arguably has as much staying power as it does because it loves the genre of medieval romance almost as much as it has fun laughing at its many, many tropes.
 
-In era where everything needs to be lampshaded or dripping in irony for people to be comfortable laughing at it, *The Princess Bride* brings comedy back to a place of love and wonder and one that takes no joy in cruelly mocking its characters. Inigo Montoya for example, may be casually ribbed for his repeated practicing of how he will introduce himself to his father’s killer, but by the end, the words, “Hello. My name is Inigo Montoya. You killed my father. Prepare to die!” Becomes the battle cry of a man fighting through death to enact his greatest purpose. 
+In era where everything needs to be lampshaded or dripping in irony for people to be comfortable laughing at it, *The Princess Bride* brings comedy back to a place of love and wonder and one that takes no joy in cruelly mocking its characters. Inigo Montoya for example, may be casually ribbed for his repeated practicing of how he will introduce himself to his father’s killer, but by the end, the words, “Hello. My name is Inigo Montoya. You killed my father. Prepare to die!” Becomes the battle cry of a man fighting through death to enact his greatest purpose.
 
-In a fitting twist for the film’s production, Director Rob Reiner was given a copy of Goldman’s novel by his father when he was growing up. In a sense, the creation of the film is a love story in itself. Rob’s love for the material, and Goldman’s love for the story that brought his daughters so much joy, brought the two artists in a way neither expected. With the 1973 screenplay being shopped around as the stuff of legends (with names like Truffeau or Robert Redford previously attached to direct), the young “upstart” Reiner was the only one who was able to understand Goldman’s vision. 
+In a fitting twist for the film’s production, Director Rob Reiner was given a copy of Goldman’s novel by his father when he was growing up. In a sense, the creation of the film is a love story in itself. Rob’s love for the material, and Goldman’s love for the story that brought his daughters so much joy, brought the two artists in a way neither expected. With the 1973 screenplay being shopped around as the stuff of legends (with names like Truffeau or Robert Redford previously attached to direct), the young “upstart” Reiner was the only one who was able to understand Goldman’s vision.
 
 …But that’s a whole other story, and I can tell you seem annoyed. You want me to stop? Yes? *As you wish.*
 

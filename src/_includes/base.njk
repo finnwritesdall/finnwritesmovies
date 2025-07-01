@@ -4,9 +4,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="/css/style.css">
-    <title>{{ title }}</title>
+    <title>{{ metadata.title }} / {{ title }}</title>
   </head>
   <body>
+      <header class="header-title">
+              <h1>{{ metadata.title | upper }}</h1>
+              <nav>
+                  <ul>
+                    <li><a href="/about/">About</a></li>
+                    <li><a href="/support/">Support</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="/rss-signup/">RSS Feed</a></li>
+                    <li><a href="/posts/">Posts</a></li>
+                  </ul>
+              </nav>
+      </header>
     <main>
       {{ content | safe }}
     </main>

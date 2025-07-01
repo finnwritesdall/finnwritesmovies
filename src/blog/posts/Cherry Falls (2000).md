@@ -1,6 +1,7 @@
 ---
 title: Cherry Falls (2000)
 subtitle: Sex, lies and derivatives...
+thumbnail: https://image.tmdb.org/t/p/original/b8KbYr4ssvlT2k1dLvJxcL55WOu.jpg
 author:
   - Finnlay Dall
 date: 2025-03-17
@@ -13,7 +14,7 @@ tags:
 - substack
 - post
 ---
-![Brittany Murphy bloodied after a rough night](https://image.tmdb.org/t/p/original/b8KbYr4ssvlT2k1dLvJxcL55WOu.jpg)
+![Brittany Murphy bloodied after a rough night]({{ thumbnail }})
 
 It’s no secret that killers target sex crazed teens. Ever since Jason was left unattended at a summer camp, psychos have hunted spatially-challenged horn-dogs like they were going extinct. But what if the opposite were true? What if a murderer targeted those yet to make a move; virgins?
 
