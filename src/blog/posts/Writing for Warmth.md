@@ -21,7 +21,7 @@ I had a cold heart that day as well as a cold body. I always have a lulling mela
 
 But all these tragic circumstances I find myself thinking: what does it mean to write for one’s own betterment and not necessarily the audience’s?
 
-## *Asteroid City* (2023) as semi-autofiction.
+## *Asteroid City* (2023) as semi-autofiction.
 
 ![Scarlett Johansson looking out the window like I feel]({{ thumbnail }})
 
