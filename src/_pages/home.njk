@@ -1,0 +1,13 @@
+---
+permalink: /
+title: Home
+layout: base.njk
+---
+<section class="latest">
+    <h1>Latest</h1>
+    <ul class="boxes">
+        {%- for post in collections.post -%}
+        {% include "post-list-item.njk" %}
+        {%- endfor -%}
+    </ul>
+</section>
