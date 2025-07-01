@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+ul {
+    padding: 5px 0px 10px 0;
+}
+
 footer {
     display: flex;
     flex-direction: column;
@@ -91,6 +95,19 @@ nav ul {
     align-items: center;
 }
 
+.header-title h1 > a {
+    text-decoration: none;
+    color: #f2f0ef;
+}
+
+.header-title h1 > a:hover,
+.header-title h1 > a:visited {
+    background-color: #000314;
+    color: #f2f0ef;
+    font-style: italic;
+    transition: font-style 50ms 50ms ease-in;
+}
+
 .post-title #subtitle {
     margin: 0;
 }
@@ -98,6 +115,12 @@ nav ul {
 .faded-normal {
     font-weight: normal;
     color: #6377b4;
+}
+
+.post-box h3,
+.post-box p {
+    margin: 0;
+    font-size: 14px;
 }
 
 p {
@@ -128,6 +151,7 @@ article img {
     margin: 2ch 0 0 0;
     max-width: 100%;
     border-radius: 15px;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -199,6 +223,35 @@ sup.footnote-ref a:hover {
 #author,
 #date {
     letter-spacing: 2px;
+}
+
+section {
+    margin-left: 0;
+    margin-right: 0;
+}
+.post-box {
+    width: 100%;
+    height: 100%;
+    list-style: none;
+}
+
+.boxes {
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    grid-gap: 10px;
+    justify-content: center;
+    margin: 0;
+}
+
+.boxes img {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.boxes img:hover {
+    background-color: #000314;
+    filter: drop-shadow(0 0 0.5rem rgba(135, 206, 235, 0.3));
 }
 
 @media only screen and (max-width: 820px) and (orientation: portrait) {

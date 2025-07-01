@@ -1,7 +1,7 @@
 ---
 title: Fantastic Festival 2024
 subtitle: A quick shoutout to some of the highlights at the festival.
-thumbnail: file:///Users/finnlaydall/webdev/finnwritesmovies/src/images/screenshots/FantasticFest24.webp
+thumbnail: https://ticketing.oz.veezi.com/Media/Poster?siteToken=6d9jaxhwrpr635s3mt7t7yjbgc&code=0000005035&isHighRes=true
 author:
   - Finnlay Dall
 date: 2024-06-03
