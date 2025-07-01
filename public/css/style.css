@@ -3,15 +3,76 @@
     box-sizing: border-box;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 24px;
+}
+
+.made-with {
+    font-size: 16px;
+}
+
+footer h3 {
+    text-align: center;
+    margin: 5px 0 0 0;
+}
+
+footer ul {
+    display: flex;
+    font-size: 40px;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    gap: 1ch;
+    padding-left: 0;
+    margin: 0;
+}
+
+footer a:link {
+    color: #6377b4;
+}
+
+footer a:hover {
+    color: #f2f0ef;
+    background-color: #000314;
+}
+
+.tip,
+.tip:active {
+    position: fixed;
+    justify-self: left;
+    left: 1.5ch;
+    right: 0px;
+    bottom: 15px;
+    opacity: 0.3;
+    transition:
+        transform 100ms 50ms ease-out,
+        opacity 100ms 50ms ease-out,
+        left 100ms 50ms ease-out;
+}
+
+.tip:hover {
+    opacity: 1;
+    transform: scale(1.25);
+    left: 50px;
+    transition:
+        transform 70ms 50ms ease-in,
+        opacity 70ms 50ms ease-in,
+        left 70ms 50ms ease-in;
+}
+
 body {
     display: flex;
+    justify-content: center;
+    margin: 0 auto;
     flex-direction: column;
     background-color: #000314;
     color: #f2f0ef;
     font-family: "Hanken Grotesk";
     max-width: 65%;
-    margin: 0 auto;
-    padding-bottom: 24px;
 }
 
 nav ul {
@@ -146,6 +207,14 @@ sup.footnote-ref a:hover {
     }
 
     .header-title nav ul {
+        font-size: 11px;
+    }
+
+    footer ul {
+        font-size: 2rem;
+    }
+
+    footer .faded-normal {
         font-size: 11px;
     }
 
