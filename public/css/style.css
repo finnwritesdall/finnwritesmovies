@@ -79,7 +79,7 @@ nav ul {
 .post-title {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
 }
 
 .post-title h2 {
@@ -139,7 +139,7 @@ main {
 .whole-post {
     display: flex;
     flex-direction: column;
-    max-width: 75%;
+    max-width: 65%;
     margin: 0 auto;
 }
 
