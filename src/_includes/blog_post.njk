@@ -2,19 +2,22 @@
 layout: base.njk
 permalink: /posts/
 ---
-<div class="post-header">
-    <div class="post-title">
-        <h1>{{ title }}</h1>
-        <h2 id="subtitle" class="faded-normal">{{ subtitle }}</h2>
-    </div>
-    <div class="header-stamp">
-        <img class="glow-shadow" src="/images/site_assets/author_avatar.png" alt="profile picture" width="54px" height="54px">
-        <div class="small-text-column">
-            <h3 id="author">{{ author | safe | upper }}</h3>
-            <h3 id="date" class="faded-normal">{{ date | readableDate | upper }}</h3>
+<div class="whole-post">
+    <div class="post-header">
+
+        <div class="post-title">
+            <h1>{{ title }}</h1>
+            <h2 id="subtitle" class="faded-normal">{{ subtitle }}</h2>
+        </div>
+        <div class="header-stamp">
+            <img class="glow-shadow" src="/images/site_assets/author_avatar.png" alt="profile picture" width="54px" height="54px">
+            <div class="small-text-column">
+                <h3 id="author">{{ author | safe | upper }}</h3>
+                <h3 id="date" class="faded-normal">{{ date | readableDate | upper }}</h3>
+            </div>
         </div>
     </div>
-</div>
 <article class="post-contents glow-shadow">
 {{ content | safe }}
 </article>
+</div>
