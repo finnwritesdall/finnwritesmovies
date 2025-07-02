@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: Home
+eleventyExcludeFromCollections: true
 layout: base.njk
 ---
 <section class="latest">
     <h1>Latest</h1>
     <ul class="boxes">
-        {%- for post in collections.post -%}
+        {%- for post in collections.allMySortedContent -%}
         {% include "post-list-item.njk" %}
         {%- endfor -%}
     </ul>
