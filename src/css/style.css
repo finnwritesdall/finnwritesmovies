@@ -245,7 +245,7 @@ section {
 
 .boxes {
     display: grid;
-    grid-template-columns: repeat(4, 250px);
+    grid-template-columns: repeat(4, 300px);
     grid-gap: 10px;
     width: 100%;
     padding-left: 0;
@@ -256,8 +256,8 @@ section {
 }
 
 .boxes img {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 300px;
     object-fit: cover;
 }
 
