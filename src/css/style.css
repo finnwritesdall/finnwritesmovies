@@ -3,16 +3,12 @@
     box-sizing: border-box;
 }
 
-ul {
-    padding: 5px 0px 10px 0;
-}
-
 footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 24px;
+    margin: 0 0 24px 0;
 }
 
 .made-with {
@@ -29,7 +25,6 @@ footer ul {
     font-size: 40px;
     flex-direction: row;
     list-style: none;
-    justify-content: center;
     gap: 1ch;
     padding-left: 0;
     margin: 0;
@@ -44,39 +39,11 @@ footer a:hover {
     background-color: #000314;
 }
 
-.tip,
-.tip:active {
-    position: fixed;
-    justify-self: left;
-    left: 1.5ch;
-    right: 0px;
-    bottom: 15px;
-    opacity: 0.3;
-    transition:
-        transform 100ms 50ms ease-out,
-        opacity 100ms 50ms ease-out,
-        left 100ms 50ms ease-out;
-}
-
-.tip:hover {
-    opacity: 1;
-    transform: scale(1.25);
-    left: 50px;
-    transition:
-        transform 70ms 50ms ease-in,
-        opacity 70ms 50ms ease-in,
-        left 70ms 50ms ease-in;
-}
-
 body {
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    flex-direction: column;
     background-color: #000314;
     color: #f2f0ef;
     font-family: "Hanken Grotesk";
-    max-width: 65%;
+    margin: 0;
 }
 
 nav ul {
@@ -93,6 +60,7 @@ nav ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .header-title h1 > a {
@@ -109,7 +77,11 @@ nav ul {
 }
 
 .post-title #subtitle {
-    margin: 0;
+    margin: 5px 0 0 0;
+}
+
+.post-title h1 {
+    margin-top: 5px;
 }
 
 .faded-normal {
@@ -146,24 +118,41 @@ a:hover {
     transition: all 350ms 50ms ease-in;
 }
 
-article img {
-    display: block;
-    margin: 2ch 0 0 0;
-    max-width: 100%;
-    border-radius: 15px;
-    margin-bottom: 10px;
-}
-
 h1 {
     font-size: 2rem;
     text-decoration: wavy underline 2.5px;
     text-underline-offset: 15px;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    flex-direction: column;
+}
+.tip {
+    margin: 0 auto 10px auto;
+}
+
+.heart {
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
 .post-title {
+    display: flex;
+    justify-content: left;
+    margin: 0 auto;
+    flex-direction: column;
+    text-wrap: wrap;
+}
+
+.post-header {
     display: flex;
     flex-direction: column;
     justify-content: left;
+    max-width: 75%;
+    margin: 10px auto 0 auto;
 }
 
 .header-stamp h3 {
@@ -191,8 +180,12 @@ h1 {
 .faded-normal {
     font-weight: 400;
 }
+body > main > section > h2,
+body > main > section > h1 {
+    margin-top: 0;
+}
 
-.post-title h2 {
+.post-header h2 {
     margin-top: 5px;
     font-size: 1.75rem;
 }
@@ -201,7 +194,7 @@ h1 {
     filter: drop-shadow(0 0 0.5rem rgba(135, 206, 235, 0.3));
 }
 
-#content h2 {
+.post-contents h2 {
     text-decoration: underline dashed #f2f0ef 3px;
     text-underline-offset: 10px;
     font-weight: 600;
@@ -226,21 +219,35 @@ sup.footnote-ref a:hover {
 }
 
 section {
-    margin-left: 0;
-    margin-right: 0;
+    display: flex;
+    margin: 0 auto 12px auto;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: dashed #f2f0ef 2px;
 }
+
 .post-box {
-    width: 100%;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
     list-style: none;
+}
+
+.post-description {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
 }
 
 .boxes {
     display: grid;
     grid-template-columns: repeat(4, 250px);
     grid-gap: 10px;
-    justify-content: center;
-    margin: 0;
+    width: 100%;
+    padding-left: 0;
+}
+
+.boxes p {
+    line-height: 1.5;
 }
 
 .boxes img {
@@ -252,6 +259,37 @@ section {
 .boxes img:hover {
     background-color: #000314;
     filter: drop-shadow(0 0 0.5rem rgba(135, 206, 235, 0.3));
+}
+
+.read-more,
+.read-more a {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 0;
+    text-align: right;
+    text-decoration: solid #f2f0ef;
+}
+
+.post-contents {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    max-width: 75%;
+    margin: 10px auto 0 auto;
+}
+
+.post-contents img {
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.post-contents p {
+    margin: 10px auto;
+    max-width: 75%;
 }
 
 @media only screen and (max-width: 820px) and (orientation: portrait) {
@@ -271,23 +309,23 @@ section {
         font-size: 11px;
     }
 
-    .post-title h1,
-    .post-title #subtitle {
+    .post-header h1,
+    .post-header #subtitle {
         line-height: 2;
         font-size: 17px;
         text-underline-offset: 5px;
     }
 
-    .post-title #subtitle {
+    .post-header #subtitle {
         line-height: normal;
         padding-top: 5px;
     }
 
-    .post-title {
+    .post-header {
         justify-content: center;
     }
 
-    .post-title h1 {
+    .post-header h1 {
         margin-bottom: 0;
     }
 
@@ -303,10 +341,6 @@ section {
     .header-stamp h3 {
         padding: 0%;
         font-size: 11px;
-    }
-
-    article {
-        margin: 0 auto;
     }
 
     a:link {
