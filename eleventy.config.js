@@ -6,7 +6,7 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/images/");
 
-  eleventyConfig.addPassthroughCopy({ "images/my-favicon": "/" });
+  eleventyConfig.addPassthroughCopy("/images/my-favicon/");
 
   eleventyConfig.addWatchTarget("./src/css/");
 
