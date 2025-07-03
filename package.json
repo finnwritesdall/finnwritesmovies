@@ -11,9 +11,9 @@
     "typescript": "^5"
   },
   "scripts": {
-    "dev": "./update_blog.sh",
-    "build": "bunx @11ty/eleventy",
-    "build-ghpages": "bunx @11ty/eleventy --pathprefix=/finnwritesmovies/"
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/finnwritesmovies/"
   },
   "dependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.4",
