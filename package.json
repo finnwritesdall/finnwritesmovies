@@ -13,11 +13,11 @@
   "scripts": {
     "dev": "./update_blog.sh",
     "build": "bunx @11ty/eleventy",
-    "build-ghpages": "bunx @11ty/eleventy --pathprefix=/your-repo-name/",
-  }
-  
+    "build-ghpages": "bunx @11ty/eleventy --pathprefix=/your-repo-name/"
+  },
   "dependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.4",
-    "markdown-it-footnote": "^4.0.0"
+    "markdown-it-footnote": "^4.0.0",
+    "netlify-plugin-cache": "^1.0.3"
   }
 }
