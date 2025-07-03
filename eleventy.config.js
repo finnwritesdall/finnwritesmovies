@@ -1,4 +1,5 @@
 import footnote_plugin from "markdown-it-footnote";
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { DateTime } from "luxon";
 export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/css");
@@ -17,6 +18,27 @@ export default async function (eleventyConfig) {
       .setLocale("en-AU")
       .toLocaleString({ day: "numeric", month: "short", year: "numeric" });
   });
+
+  // RSS Plugin
+  	eleventyConfig.addPlugin(feedPlugin, {
+		type: "atom", // or "rss", "json"
+		outputPath: "/feed.xml",
+		collection: {
+			name: "posts", // iterate over `collections.posts`
+			limit: 10,     // 0 means no limit
+		},
+		metadata: {
+			language: "en",
+			title: "Finn Writes Movies",
+			subtitle: "A place for my thoughts on movies and other writing.",
+			base: "https://finnwritesmovies.com",
+			author: {
+				name: "Finnlay Dall",
+				email: "finnwritesdall@gmail.com", // Optional
+			}
+		}
+	});
+
 
   return {
     markdownTemplateEngine: "njk",
