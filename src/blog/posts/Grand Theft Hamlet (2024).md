@@ -6,7 +6,6 @@ author:
   - Finnlay Dall
 date: 2025-02-24
 tags:
-- post
 - mubi
 - streaming
 - review

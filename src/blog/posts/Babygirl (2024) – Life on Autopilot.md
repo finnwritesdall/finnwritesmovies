@@ -8,7 +8,6 @@ date: 2025-01-26
 tags:
 - a24
 - review
-- post
 - cinema nova
 - substack
 ---

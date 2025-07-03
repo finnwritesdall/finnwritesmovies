@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap");
 * {
     box-sizing: border-box;
+    color-scheme: dark;
 }
 
 footer {
@@ -159,7 +160,7 @@ main {
 }
 
 .post-header,
-post-title {
+.post-title {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -176,6 +177,7 @@ post-title {
     gap: 2ch;
     margin-top: 10px;
 }
+
 
 .header-stamp img {
     margin-top: 0;
@@ -225,10 +227,16 @@ sup.footnote-ref a:hover {
 
 section {
     display: flex;
-    margin: 0 auto 12px auto;
+    margin: 5px auto;
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
     border-bottom: dashed #f2f0ef 2px;
+}
+
+.about {
+    margin: 0 15px;
+    line-height: 1.5;
+    font-size: smaller;
 }
 
 .post-box {

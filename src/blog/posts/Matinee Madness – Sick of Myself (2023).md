@@ -10,7 +10,6 @@ tags:
 - review
 - classic cinemas
 - substack
-- post
 ---
 ![Kristine Kujath Thorp gobbling up black market pills from a kitchen table]({{ thumbnail }})
 

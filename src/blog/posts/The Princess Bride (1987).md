@@ -9,7 +9,6 @@ tags:
 - anniversary
 - cameo cinemas
 - mum birthday
-- post
 - review
 - essay
 - substack

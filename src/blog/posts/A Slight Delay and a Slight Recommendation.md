@@ -6,7 +6,6 @@ author:
   - Finnlay Dall
 date: 2023-09-28
 tags:
-  - post
   - anime
   - substack
   - disney+

@@ -1,0 +1,16 @@
+---
+layout: base.njk
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /tags/{{ tag }}/
+---
+<section>
+  <h1>Tag – “{{ tag | slugify }}”</h1>
+  <ul class="boxes">
+    {% for post in collections[ tag ] %}
+    {% include "post-list-item.njk" %}
+    {% endfor %}
+  </ul>
+</section>

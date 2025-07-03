@@ -7,7 +7,6 @@ author:
 date: 2025-03-10
 tags:
 - netflix
-- post
 - horror
 - science fiction
 - writing

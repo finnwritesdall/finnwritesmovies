@@ -6,7 +6,6 @@ author:
   - Finnlay Dall
 date: 2025-04-07
 tags:
-- post
 - substack
 - review
 - cinema nova

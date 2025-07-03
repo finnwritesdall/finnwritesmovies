@@ -10,7 +10,6 @@ tags:
 - screenwriters club
 - review
 - substack
-- post
 - adaptations
 ---
 [![A 50th birthday party no-one wants to be a part of]({{ thumbnail }})

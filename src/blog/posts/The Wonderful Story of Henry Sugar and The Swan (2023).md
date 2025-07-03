@@ -10,7 +10,6 @@ tags:
 - shorts
 - wes anderson
 - adaptation
-- post
 - substack
 - review
 - netflix

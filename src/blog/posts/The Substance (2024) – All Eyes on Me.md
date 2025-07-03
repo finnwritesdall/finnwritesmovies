@@ -6,7 +6,6 @@ author:
   - Finnlay Dall
 date: 2024-10-22
 tags:
-- post
 - mubi
 - madman
 - substack

@@ -18,9 +18,6 @@ export default async function (eleventyConfig) {
       .toLocaleString({ day: "numeric", month: "short", year: "numeric" });
   });
 
-  eleventyConfig.addCollection("allMySortedContent", function (collectionsApi) {
-    return collectionsApi.getAllSorted().reverse();
-  });
   return {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

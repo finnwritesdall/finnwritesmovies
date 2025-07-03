@@ -8,7 +8,6 @@ date: 2024-06-03
 tags:
 - festivals
 - fantastic fest
-- post
 - review
 - lido cinemas
 - substack

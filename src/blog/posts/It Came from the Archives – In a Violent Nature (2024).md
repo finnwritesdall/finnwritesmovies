@@ -6,7 +6,6 @@ author:
 - Finnlay Dall
 date: 2024-10-30
 tags:
-- post
 - halloween
 - umbrella
 - horror

@@ -10,7 +10,6 @@ tags:
 - theatre
 - review
 - substack
-- post
 ---
 ![A community theatre warmup exercise with Dolly de Leon in the middle]({{ thumbnail }})
 

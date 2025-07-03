@@ -12,7 +12,6 @@ tags:
 - review
 - matinee madness
 - substack
-- post
 - classic cinemas
 - horror
 - remake

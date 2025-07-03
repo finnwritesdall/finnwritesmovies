@@ -14,7 +14,6 @@ tags:
 - cinema nova
 - advanced screening
 - substack
-- post
 ---
 ![Hugh Grant about to ABSOLUTELY DESTROY some mormon girls]({{ thumbnail }})
 

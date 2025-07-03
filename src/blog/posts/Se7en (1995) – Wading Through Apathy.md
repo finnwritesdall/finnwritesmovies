@@ -12,7 +12,6 @@ tags:
 - essay
 - anniversary
 - horror
-- post
 ---
 ![Brad Pitt and Morgan Freeman coming to terms with their 'killer' ending]({{ thumbnail }})
 

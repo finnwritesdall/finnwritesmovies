@@ -8,7 +8,6 @@ date: 2022-04-20
 tags:
 - website archive
 - substack
-- post
 - review
 - animals
 - adaptation

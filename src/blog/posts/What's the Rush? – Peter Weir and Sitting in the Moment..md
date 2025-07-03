@@ -13,7 +13,6 @@ tags:
 - substack
 - review
 - essay
-- post
 - cult classic
 - retro
 - anniversary

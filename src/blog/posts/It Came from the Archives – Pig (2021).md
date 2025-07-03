@@ -11,7 +11,6 @@ tags:
 - review
 - substack
 - website archive
-- post
 ---
 ![Nicholas Cage caring for his truffle pig in the woods]({{ thumbnail }})
 *Pig* takes its time to get the simple things just right. There's no complicated pasts, no waffling sophistry and no drawn out scenes. This is not your three hour slow burn, this just ninety minutes of pure story. Where dialogue is absent, body language takes centre stage. It could be an assertive lean forward from Robin (Nic Cage) in Finway's, or a flinch from Amir (Alex Wolff) at the mention of his dad. The actors are allowed to breathe and really embody who they're playing. The dialogue that is present is dripping with subtext. Amir's hesitation to tell the truth about his mother's condition indicates what he truly wants for her. Additionally, when he asks Robin if he wants a camp shower, it seems like Amir only cares that his cash cow stay alive. However, by the second watch, it's clear that he has the capacity to care about other people, something his father lacks. All that can be extrapolated in one or two words of dialogue. Meanwhile, Cage doesn't need to say anything most of the time. Whether its visual or auditory clues like the tape from his wife or other characters troubles mirroring his own, his backstory has greater depth than if he were to explain it to anyone directly. Surprisingly, Wolff is able to hold his own against Cage, and the pair really elevate an already great narrative.

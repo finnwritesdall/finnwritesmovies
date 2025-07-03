@@ -12,7 +12,6 @@ tags:
 - essay
 - review
 - substack
-- post
 - streaming
 - anniversary
 ---
