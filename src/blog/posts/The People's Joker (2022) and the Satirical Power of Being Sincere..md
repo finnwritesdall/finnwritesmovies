@@ -12,6 +12,7 @@ tags:
 - review
 - substack
 - cinema nova
+- post
 ---
 ![Vera Drew going full Joker]({{ thumbnail }})
 

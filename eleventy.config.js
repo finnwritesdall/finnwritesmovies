@@ -28,7 +28,7 @@ export default async function (eleventyConfig) {
 		type: "atom", // or "rss", "json"
 		outputPath: "/feed.xml",
 		collection: {
-			name: "all", // iterate over `collections.posts`
+			name: "posts", // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit
 		},
 		metadata: {

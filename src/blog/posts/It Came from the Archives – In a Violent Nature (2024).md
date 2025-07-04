@@ -13,6 +13,7 @@ tags:
 - slasher
 - review
 - unimelb film inquirer
+- post
 ---
 Since today is the eve of All Hallow’s Eve, I thought what better way to celebrate it than by dusting off one of my old pieces; lost to time like some eldritch tome of curses. I’ve also chopped and changed a few things since I’ve a had a fair bit of time to reflect upon my experience. So, while it may not be fresh, hopefully this little morsel is spooky enough to send shivers – even a small tingle – down your spine. Enjoy!
 

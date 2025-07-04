@@ -13,6 +13,7 @@ tags:
 - internet
 - substack
 - review
+- post
 ---
 ![Anna Cobb absolutely glowing with insanity]({{ thumbnail }})
 

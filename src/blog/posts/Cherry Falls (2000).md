@@ -12,6 +12,7 @@ tags:
 - review
 - horror
 - substack
+- post
 ---
 ![Brittany Murphy bloodied after a rough night]({{ thumbnail }})
 

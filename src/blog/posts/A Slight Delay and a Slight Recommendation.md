@@ -7,6 +7,7 @@ author:
 date: 2023-09-28
 tags:
   - anime
+  - post
   - substack
   - disney+
   - review

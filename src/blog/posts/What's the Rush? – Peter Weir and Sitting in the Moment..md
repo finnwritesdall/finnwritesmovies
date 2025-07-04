@@ -16,6 +16,7 @@ tags:
 - cult classic
 - retro
 - anniversary
+- post
 ---
 ![The boys of Dead Poets Society hanging out in their cave]({{ thumbnail }})
 

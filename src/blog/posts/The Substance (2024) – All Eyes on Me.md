@@ -15,6 +15,7 @@ tags:
 - horror
 - halloween
 - cinema nova
+- post
 ---
 ![Demi Moore getting more (eyes) than she bargained for]({{ thumbnail }})
 

@@ -15,6 +15,7 @@ tags:
 - classic cinemas
 - horror
 - remake
+- post
 ---
 ![The cast of Haunted Mansion (2023) looking about as horrified as a sack of wheat]({{ thumbnail }})
 

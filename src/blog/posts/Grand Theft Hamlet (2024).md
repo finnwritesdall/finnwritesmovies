@@ -13,6 +13,7 @@ tags:
 - substack
 - games
 - internet
+- post
 ---
 ![An Alien auditioning at the Vinewood Bowl]({{ thumbnail }})
 

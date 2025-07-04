@@ -10,6 +10,7 @@ tags:
 - review
 - cinema nova
 - cult classic
+- post
 ---
 ![Ryland Brickson Cole Tews and his nervous beaver lawyer in beaver court]({{ thumbnail }})
 

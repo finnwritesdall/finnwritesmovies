@@ -8,6 +8,7 @@ date: 2025-01-26
 tags:
 - a24
 - review
+- post
 - cinema nova
 - substack
 ---
@@ -33,7 +34,7 @@ For every scene of Romy crawling on her knees, Samuel will hold her, not caress 
 
 *Babygirl,* it seems then shares more in common with the likes of *Secretary (2002),* a more erotic than thrilling romance that sees Maggie Gyllenhaal’s Lee channel her self-harm into something more ‘healthy’, working under a spineless lawyer with a sadism fetish. In both films, what starts off as a problematic distraction from their empty lives, soon produces a sense of purpose for both members in the relationship. For Romy and Lee, Samuel and Grey (unrelated to the Christian Grey of E.L James’ series) become conduits of their inner strength, and surprisingly, their independence.
 
-[![Harris Dickinson looking at you from across the club](https://image.tmdb.org/t/p/original/fLxFRSQ4iOBjt1W3IThZzp6Cmb9.jpg)
+![Harris Dickinson looking at you from across the club](https://image.tmdb.org/t/p/original/fLxFRSQ4iOBjt1W3IThZzp6Cmb9.jpg)
 
 The film does try to get around the murkiness of the situation – the age-gap, the intern/CEO power dynamic and the corporate corruption – by making both parties just as conflicted and confused as the audience is. When the role-play leaks out into their real lives, neither Samuel or Romy are sure who started it, who’s in control or who’s been manipulating whom. At the very least it’s done with more tact than either *Instinct* or *Attraction,* who paint Michael Douglas as a hapless sap who just so happened to hook-up with a cold and calculating psycho bitch. However, when the film implies ending a career with “one phone call” is equally harmful to asking your young intern to do sexual favours for you or you’ll “take care of him,” the writing hits little snags that don’t exactly scream solidarity with the victims of abuse or workplace harassment.
 

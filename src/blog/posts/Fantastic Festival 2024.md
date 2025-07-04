@@ -13,6 +13,7 @@ tags:
 - substack
 - horror
 - science fiction
+- post
 ---
 ![Fantastic Festival 2024 logo]({{ thumbnail }})
 

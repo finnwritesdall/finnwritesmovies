@@ -11,6 +11,7 @@ tags:
 - review
 - animals
 - adaptation
+- post
 ---
 ![EO chilling with an Italian in a horse trailer]({{ thumbnail }})
 

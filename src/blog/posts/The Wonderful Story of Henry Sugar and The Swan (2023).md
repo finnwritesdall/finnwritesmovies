@@ -14,6 +14,7 @@ tags:
 - review
 - netflix
 - streaming
+- post
 ---
 ![Benedict Cumberbatch looking at you for help on how to play Blackjack at the casino]({{ thumbnail }})
 

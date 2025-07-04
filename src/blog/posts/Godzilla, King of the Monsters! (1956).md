@@ -14,6 +14,7 @@ tags:
 - substack
 - streaming
 - anniversary
+- post
 ---
 ![Raymond Barry looking just as scared as you are to watch this film.]({{ thumbnail }})
 

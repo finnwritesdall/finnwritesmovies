@@ -11,6 +11,7 @@ tags:
 - review
 - substack
 - adaptations
+- post
 ---
 [![A 50th birthday party no-one wants to be a part of]({{ thumbnail }})
 

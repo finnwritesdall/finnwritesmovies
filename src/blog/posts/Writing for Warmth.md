@@ -11,6 +11,7 @@ tags:
 - cinema nova
 - screenwriters club
 - wes anderson
+- post
 ---
 Currently, due to being hit by high gas bills at my rental, my roommates and I have decided to forgo heating altogether. While this works for them – being out of the house for work during the day and spending less time in an arctic fridge – working from home is an absolute nightmare. The thermostat read a room temp of twelve degrees on Wednesday morning (what a fun start to Spring). Of course, this self imposed suffering is just as much my decision as it is theirs (I refuse to heat a whole house just for my one room).
 

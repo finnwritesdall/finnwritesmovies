@@ -12,6 +12,7 @@ tags:
 - review
 - essay
 - substack
+- post
 ---
 ![Westley and Princess Buttercup silhouetted by a sunset]({{ thumbnail }})
 
