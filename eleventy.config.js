@@ -2,6 +2,8 @@ import footnote_plugin from "markdown-it-footnote";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { DateTime } from "luxon";
 export default async function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("CNAME");
+  
   eleventyConfig.addPassthroughCopy("./src/css");
 
   eleventyConfig.addPassthroughCopy("./src/images/");
