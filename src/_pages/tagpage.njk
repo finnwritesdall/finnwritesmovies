@@ -5,13 +5,15 @@ pagination:
   size: 1
   alias: tag
 permalink: /tags/{{ tag }}/
-title: {{ tag }}
+title: {{ tag | slugify }}
 ---
-<section>
-  <h1>Tag – “{{ tag | slugify }}”</h1>
-  <ul class="boxes">
-    {% for post in collections[ tag ] %}
-    <li>{% include "post-list-item.njk" %}</li>
-    {% endfor %}
-  </ul>
-</section>
+<div class="div-align-main">
+  <section class="sel-collection">
+    <h1>Tag – “{{ tag | slugify }}”</h1>
+    <div class="boxes">
+      {% for post in collections[ tag ] %}
+      {% include "post-list-item.njk" %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

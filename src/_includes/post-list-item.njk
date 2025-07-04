@@ -1,7 +1,6 @@
-  <div class="post-box">
-          <a href="{{ post.url }}"/><img src="{{ post.data.thumbnail }}" width="250px"></a>
-          <div class="post-description">
-              <h3>{{ post.data.title }}</h3>
-              <p class="faded-normal">{{ post.data.subtitle | truncate(60) }}</p>
+
+          <div class="post-box">
+            <a href="{{ post.url }}"/><img src="{{ post.data.thumbnail }}" width="250px"></a>
+            <h3>{{ post.data.title }}</h3>
+            <p class="faded-normal">{{ post.data.subtitle | truncate(60) }}</p>
           </div>
-  </div>

@@ -3,36 +3,36 @@ permalink: /
 title: Home
 layout: base.njk
 ---
-<section class="latest">
-    <h1>Latest</h1>
-    <h2 class="faded-normal">Fresh off the press...</h2>
-
-    <ul class="boxes">
-        {%- for post in collections.posts.reverse().slice(0,4) -%}
-        <li>{% include "post-list-item.njk" %}</li>
-        {%- endfor -%}
-    </ul>
-    <h2 class="read-more"><a href="/tags/posts">Read more...</a></h2>
-</section>
-<section class="essays">
-    <h1>Essays</h1>
-    <h2 class="faded-normal">Getting deep with it...</h2>
-
-    <ul class="boxes">
-        {%- for post in collections.essay.reverse().slice(0,4)-%}
-        <li>{% include "post-list-item.njk" %}</li>
-        {%- endfor -%}
-    </ul>
-    <h2 class="read-more"><a href="/tags/essay">Read more...</a></h2>
-</section>
-<section class="matinee-madness">
-    <h1>Matinee Madness</h1>
-    <h2 class="faded-normal">Top o' the morning...</h2>
-
-    <ul class="boxes">
-        {%- for post in collections["matinee madness"].reverse().slice(0,4) -%}
-        <li>{% include "post-list-item.njk" %}</li>
-        {%- endfor -%}
-    </ul>
-    <h2 class="read-more"><a href="/tags/matinee madness">Read more...</a></h2>
-</section>
+    <div class="div-align-main">
+        <section class="sel-collection">
+            <h1>Latest</h1>
+            <h2 class="faded-normal">Fresh off the press...</h2>
+            <div class="boxes">
+                {%- for post in collections.posts.reverse().slice(0,4) -%}
+                    {% include "post-list-item.njk" %}
+                {%- endfor -%}
+            </div>
+            <h2 class="read-more"><a href="/tags/posts">Read more...</a></h2>
+        </section>
+        
+        <section class="sel-collection">
+            <h1>Essays</h1>
+            <h2 class="faded-normal">Getting deep with it...</h2>
+            <div class="boxes">
+                {%- for post in collections.essay.reverse().slice(0,4)-%}
+                    {% include "post-list-item.njk" %}
+                {%- endfor -%}
+            </div>
+            <h2 class="read-more"><a href="/tags/essay">Read more...</a></h2>
+        </section>
+        <section class="sel-collection">
+            <h1>Matinee Madness</h1>
+            <h2 class="faded-normal">Top o' the morning...</h2>
+            <div class="boxes">
+                {%- for post in collections["matinee madness"].reverse().slice(0,4) -%}
+                    {% include "post-list-item.njk" %}
+                {%- endfor -%}
+            </div>
+            <h2 class="read-more"><a href="/tags/matinee madness">Read more...</a></h2>
+        </section>
+    </div>
