@@ -289,6 +289,20 @@ section {
     text-decoration: solid #f2f0ef;
 }
 
+@media only screen and (max-width: 1260px) {
+    .post-header h1 {
+        line-height: 2;
+        font-size: 19px;
+    }
+
+    .post-header h2 {
+        font-size: 19px;
+    }
+
+    .boxes {
+        grid-template-columns: repeat(2, 300px);
+    }
+}
 @media only screen and (max-width: 900px) {
     .header-title h1 {
         font-size: 17px;
@@ -350,20 +364,5 @@ section {
     p {
         font-size: 16px;
         line-height: 1.5;
-    }
-}
-
-@media only screen and (max-width: 1260px) {
-    .post-header h1 {
-        line-height: 2;
-        font-size: 19px;
-    }
-
-    .post-header h2 {
-        font-size: 19px;
-    }
-
-    .boxes {
-        grid-template-columns: repeat(2, 300px);
     }
 }
