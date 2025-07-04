@@ -17,6 +17,14 @@ layout: base.njk
         </div>
     </div>
 <article class="post-contents glow-shadow">
+<nav class="taglist-container">
+    <ul>
+    {% for tag in tags %}
+        <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
+    {% endfor %}
+    </ul>
+</nav>
+
 {{ content | safe }}
 </article>
 </div>

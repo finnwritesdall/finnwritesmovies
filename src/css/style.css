@@ -49,11 +49,12 @@ body {
 
 nav ul {
     display: flex;
+    flex-direction: column;
     list-style: none;
-    flex-flow: row nowrap;
-    justify-content: space-evenly;
+    flex-flow: row wrap;
+    justify-content: space-between;
     padding-left: 0;
-    gap: 2ch;
+    gap: 10px;
     text-decoration: none;
 }
 
