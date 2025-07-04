@@ -11,7 +11,7 @@ title: {{ tag }}
   <h1>Tag – “{{ tag | slugify }}”</h1>
   <ul class="boxes">
     {% for post in collections[ tag ] %}
-    {% include "post-list-item.njk" %}
+    <li>{% include "post-list-item.njk" %}</li>
     {% endfor %}
   </ul>
 </section>
