@@ -237,7 +237,7 @@ sup.footnote-ref a:hover {
 .boxes {
     display: grid;
     grid-template-columns: repeat(auto-fit, 300px);
-    column-gap: 10px;
+    gap: 10px;
     justify-content: center;
     padding-bottom: 5px;
 }
