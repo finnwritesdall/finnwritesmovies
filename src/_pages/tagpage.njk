@@ -4,8 +4,9 @@ pagination:
   data: collections
   size: 1
   alias: tag
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag | slugify }}/
 title: {{ tag | slugify }}
+eleventyExcludeFromCollections: ["posts"]
 ---
 <div class="div-align-main">
   <section class="sel-collection">
