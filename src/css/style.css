@@ -116,7 +116,7 @@ a:link {
 }
 
 a:visited {
-    color: skyblue;
+    color: #87ceeb;
     text-decoration: underline wavy;
 }
 
@@ -201,6 +201,7 @@ main {
 }
 
 .post-contents h2 {
+	margin-left: 0;
     text-decoration: underline dashed #f2f0ef 3px;
     text-underline-offset: 10px;
     font-weight: 600;
